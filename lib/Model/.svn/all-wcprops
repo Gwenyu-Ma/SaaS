@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/esm/!svn/ver/29479/soho/code/web/lib/Model
+END
+RedisDataManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esm/!svn/ver/29479/soho/code/web/lib/Model/RedisDataManager.php
+END
+Group.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esm/!svn/ver/28712/soho/code/web/lib/Model/Group.php
+END
+Client.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/esm/!svn/ver/28483/soho/code/web/lib/Model/Client.php
+END
+Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esm/!svn/ver/26943/soho/code/web/lib/Model/Test.php
+END
+Oplog.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esm/!svn/ver/27701/soho/code/web/lib/Model/Oplog.php
+END
+Clean.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esm/!svn/ver/28424/soho/code/web/lib/Model/Clean.php
+END
+Cmd.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esm/!svn/ver/28052/soho/code/web/lib/Model/Cmd.php
+END
+PlatformInitManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/esm/!svn/ver/28271/soho/code/web/lib/Model/PlatformInitManager.php
+END
+Message.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/esm/!svn/ver/26075/soho/code/web/lib/Model/Message.php
+END
+AutoGroup.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esm/!svn/ver/27551/soho/code/web/lib/Model/AutoGroup.php
+END
+Org.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esm/!svn/ver/28712/soho/code/web/lib/Model/Org.php
+END

@@ -1,0 +1,50 @@
+{
+    "tooltip":{
+        "trigger":"axis",
+        "axisPointer":{
+            "type":"shadow"
+        }
+    },
+    "legend":{
+        "data":["Windows XP","Windows 7","Windows Server 2008","Android","Linux","其他"]
+    },
+    "xAxis":[
+        {
+            "type":"category",
+            "nameLocation":"middle",
+            "splitArea":{
+                "areaStyle":{
+                    "color":["#c23531","#2f4554", "#61a0a8", "#d48265", "#91c7ae","#749f83"]
+                }
+            },
+            "data":["Windows XP","Windows 7","Windows Server 2008","Android","Linux","其他"]
+        }
+    ],
+    "yAxis":[
+        {
+            "type":"value"
+        }
+    ],
+    "grid":{
+        "containLabel":true,
+        "left":"3%",
+        "right":"3%",
+        "bottom":"5%"
+    },
+    "dataZoom":[
+        {
+            "type":"inside",
+            "start":0,
+            "end":100
+        }
+    ],
+    "series":[
+        {
+            "name":"总数",
+            "type":"bar",
+            "data":[8,10,2,5,0,0]
+        }
+    ]
+
+    
+}

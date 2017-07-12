@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/esm/!svn/ver/28446/soho/code/web/dl/api
+END
+addeid.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esm/!svn/ver/25161/soho/code/web/dl/api/addeid.php
+END
+getbase.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esm/!svn/ver/25116/soho/code/web/dl/api/getbase.php
+END
+auth.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/esm/!svn/ver/25116/soho/code/web/dl/api/auth.php
+END
+eid.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/esm/!svn/ver/25174/soho/code/web/dl/api/eid.php
+END
+geteids.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esm/!svn/ver/25410/soho/code/web/dl/api/geteids.php
+END
+upload.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esm/!svn/ver/28446/soho/code/web/dl/api/upload.php
+END
+download.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esm/!svn/ver/25354/soho/code/web/dl/api/download.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/unitTests/Classes/PHPExcel
+END
+CalculationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/unitTests/Classes/PHPExcel/CalculationTest.php
+END
+ReferenceHelperTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/unitTests/Classes/PHPExcel/ReferenceHelperTest.php
+END
+AutoloaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/unitTests/Classes/PHPExcel/AutoloaderTest.php
+END
+CellTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/unitTests/Classes/PHPExcel/CellTest.php
+END

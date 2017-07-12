@@ -1,0 +1,104 @@
+<ul class="nav nav-tabs" id="policyTab">
+  <li class="active"><a href="#tab-scan" data-toggle="tab">扫描设置</a></li>
+  <li><a href="#tab-viru" data-toggle="tab">病毒设置</a></li>
+</ul>
+ 
+<div class="tab-content">
+  <div class="tab-pane in active" id="tab-scan">
+    <dl>
+      <dt>扫描优化</dt>
+      <dd>
+        <label class="checkbox">
+          <input type="checkbox" id="keepDayAble">仅扫描最近
+          <input type="text" id="keepDay" class="input-mini" disabled validation="intNum">天更新的文件
+        </label>
+        <label class="checkbox">
+          <input type="checkbox" id="compsAble">压缩包文件不大于
+          <input type="text" id="compress" class="input-mini"  disabled validation="intNum">M
+        </label>
+      </dd>      
+      <dt>扫描路径</dt>
+      <dd>
+        <div class="mb5"><input type="text" class="input-large" id="scanPath" value="/">仅填写一个路径</div>
+        <div class="mb5">
+          <label class="checkbox inline">
+            <input type="checkbox" name="ignPath">忽略以下路径
+          </label>
+          <button id="add_ignPath" class="btn btn-success btn-small ml10" disabled>添加</button>
+        </div>
+        <div class="li_ignPaths">
+          <ul>
+           
+          </ul>
+        </div>    
+      </dd> 
+      <dt>定时扫描</dt>
+      <dd>
+         <label class="checkbox">
+          <input type="checkbox" name="setTimeViru" id="setTimeViru">启动定时扫描
+        </label>
+        <div class="mb5">
+          <label class="checkbox inline">
+            <input type="checkbox" name="scanTime" disabled>周日
+          </label>
+          <label class="checkbox inline">
+            <input type="checkbox" name="scanTime" disabled>周一
+          </label>
+          <label class="checkbox inline">
+            <input type="checkbox" name="scanTime" disabled>周二
+          </label>
+          <label class="checkbox inline">
+            <input type="checkbox" name="scanTime" disabled>周三
+          </label>
+          <label class="checkbox inline">
+            <input type="checkbox" name="scanTime" disabled>周四
+          </label>
+          <label class="checkbox inline">
+            <input type="checkbox" name="scanTime" disabled>周五
+          </label>
+          <label class="checkbox inline">
+            <input type="checkbox" name="scanTime" disabled>周六
+          </label>
+        </div>
+        <div class="mb5">开始时间：<input type="text" id="scanT"  disabled class="input-small"></div>
+      </dd>
+    </dl>
+  </div>
+  <div class="tab-pane " id="tab-viru">
+    <dl>
+      <dt>发现病毒时</dt>
+      <dd>
+        <label class="radio">
+          <input type="radio" name="findViru" id="findViru_1" value="1" checked>清除病毒
+        </label>
+        <label class="radio">
+          <input type="radio" name="findViru" id="findViru_2" value="2">删除病毒文件
+        </label>
+        <label class="radio">
+          <input type="radio" name="findViru" id="findViru_3" value="3">不处理
+        </label>
+      </dd>
+      <dt>清除病毒失败时</dt>
+      <dd>
+        <label class="radio">
+          <input type="radio" name="clearViru" id="clearViru_1" value="1" checked>删除染毒文件
+        </label>
+        <label class="radio">
+          <input type="radio" name="clearViru" id="clearViru_2" value="2">不处理
+        </label>
+      </dd>
+      <dt>隔离失败时</dt>
+      <dd>
+        <label class="radio">
+          <input type="radio" name="viruFail" id="viruFail_1" value="1" checked>清除病毒
+        </label>
+        <label class="radio">
+          <input type="radio" name="viruFail" id="viruFail_2" value="2">删除病毒文件
+        </label>
+        <label class="radio">
+          <input type="radio" name="viruFail" id="viruFail_3" value="3">不处理
+        </label>
+      </dd> 
+    </dl>
+  </div>
+</div>

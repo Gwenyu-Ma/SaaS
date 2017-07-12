@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Classes/PHPExcel/RichText
+END
+TextElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Classes/PHPExcel/RichText/TextElement.php
+END
+Run.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Classes/PHPExcel/RichText/Run.php
+END
+ITextElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Classes/PHPExcel/RichText/ITextElement.php
+END

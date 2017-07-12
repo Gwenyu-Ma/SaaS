@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/nikic/php-parser/test/PhpParser/Builder
+END
+NamespaceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/nikic/php-parser/test/PhpParser/Builder/NamespaceTest.php
+END
+UseTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/nikic/php-parser/test/PhpParser/Builder/UseTest.php
+END
+InterfaceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/nikic/php-parser/test/PhpParser/Builder/InterfaceTest.php
+END
+MethodTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/nikic/php-parser/test/PhpParser/Builder/MethodTest.php
+END
+ParamTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/nikic/php-parser/test/PhpParser/Builder/ParamTest.php
+END
+TraitTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/nikic/php-parser/test/PhpParser/Builder/TraitTest.php
+END
+PropertyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/nikic/php-parser/test/PhpParser/Builder/PropertyTest.php
+END
+ClassTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/nikic/php-parser/test/PhpParser/Builder/ClassTest.php
+END
+FunctionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/nikic/php-parser/test/PhpParser/Builder/FunctionTest.php
+END

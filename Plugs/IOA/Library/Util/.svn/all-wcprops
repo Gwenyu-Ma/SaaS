@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esm/!svn/ver/28902/soho/code/web/Plugs/IOA/Library/Util
+END
+EmailUtil.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/esm/!svn/ver/28109/soho/code/web/Plugs/IOA/Library/Util/EmailUtil.class.php
+END
+MobileUtil.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/esm/!svn/ver/28902/soho/code/web/Plugs/IOA/Library/Util/MobileUtil.class.php
+END
+SequenceUtil.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/esm/!svn/ver/28109/soho/code/web/Plugs/IOA/Library/Util/SequenceUtil.class.php
+END
+DateUtil.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/esm/!svn/ver/28313/soho/code/web/Plugs/IOA/Library/Util/DateUtil.class.php
+END
+FileUtil.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/esm/!svn/ver/28109/soho/code/web/Plugs/IOA/Library/Util/FileUtil.class.php
+END
+MobileUtil.class_20170311.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/esm/!svn/ver/28899/soho/code/web/Plugs/IOA/Library/Util/MobileUtil.class_20170311.php
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/illuminate/contracts/Auth
+END
+UserProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/illuminate/contracts/Auth/UserProvider.php
+END
+StatefulGuard.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/illuminate/contracts/Auth/StatefulGuard.php
+END
+Authenticatable.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/illuminate/contracts/Auth/Authenticatable.php
+END
+PasswordBrokerFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/illuminate/contracts/Auth/PasswordBrokerFactory.php
+END
+Guard.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/illuminate/contracts/Auth/Guard.php
+END
+Registrar.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/illuminate/contracts/Auth/Registrar.php
+END
+SupportsBasicAuth.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/illuminate/contracts/Auth/SupportsBasicAuth.php
+END
+CanResetPassword.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/illuminate/contracts/Auth/CanResetPassword.php
+END
+Factory.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/illuminate/contracts/Auth/Factory.php
+END
+PasswordBroker.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/illuminate/contracts/Auth/PasswordBroker.php
+END

@@ -1,0 +1,49 @@
+<div class="content-header">
+  <h1>系统事件日志</h1>
+</div>
+<div class="content-body log-panel">
+  <div class="form-inline bar-search">
+    <label>时间范围</label>
+    <select id="selTime">
+      <option value="0" selected>本周</option>
+      <option value="1">上周</option>
+      <option value="2">本月</option>
+      <option value="3">上月</option>
+      <option value="4">指定范围</option>
+    </select>
+    <div id="panelDate" class="item" style="display:none">
+      <label>从</label>
+      <input id="date_timepicker_start" type="text" value="">
+      <label>到</label>
+      <input id="date_timepicker_end" type="text" value="">
+    </div>
+    <label>事件类型</label>
+    <select id="selType">
+      <option value="BUS_PlatformLog" selected>业务中心事件</option>
+      <option value="CLIENT_PlatformLog">客户端事件</option>
+      <option value="RUA_UpdateLog">客户端升级日志</option>
+      <option value="RUC_UpdateLog">升级中心日志</option>
+    </select>
+    <label>分组</label>
+    <select id="selGroup"></select>
+    <button id="btnSearch" class="btn btn-primary btn-small"> <i class="icon-search icon-white"></i></button>
+  </div>
+  <div class="container-fluid">
+    <div class="row-fluid">
+      <div class="span12 well well-small">
+        <ul class="nav nav-tabs" id="tab-pf-bus">
+          <li class="active"><a href="#tab-tb" data-toggle="tab">列表</a></li>
+          <li><a href="#tab-chart" data-toggle="tab">统计图</a></li>
+        </ul>
+        <div class="tab-content">
+          <div class="tab-pane in active" id="tab-tb">
+            <table id="tb-pf-bus"></table>
+          </div>
+          <div class="tab-pane" id="tab-chart">
+            <div id="chartLine" style="height:400px;"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

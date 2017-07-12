@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Writer/HTML
+END
+ElementTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Writer/HTML/ElementTest.php
+END
+StyleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Writer/HTML/StyleTest.php
+END
+PartTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Writer/HTML/PartTest.php
+END

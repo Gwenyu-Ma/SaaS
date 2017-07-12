@@ -1,0 +1,88 @@
+<div class="container-fluid" style="padding-top:20px;">
+  <div class="row-fluid">
+    <div class="span12">
+      <div class="row-fluid">
+        <div class="span6">
+          <div class="row-fluid">
+            <div class="span8">
+              <div class="panel">
+                <div class="head">
+                  <h4>最近7天健康情况</h4>
+                </div>
+                <div class="body" style="overflow:hidden;">
+                  <div id="chartPie" style="height:300px;"></div>
+                </div>
+              </div>
+            </div>
+            <div class="span4">
+              <div class="panel">
+                <div class="head">
+                  <h4>客户端当前在线情况</h4>
+                </div>
+                <div class="body">
+                  <div style="height:300px;">
+                    <table class="table">
+                      <thead>
+                        <tr>
+                          <th></th>
+                          <th>数量</th>
+                          <th>比例</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td>在线</td>
+                          <td>5</td>
+                          <td>17%</td>
+                        </tr>
+                        <tr>
+                          <td>离线</td>
+                          <td>25</td>
+                          <td>83%</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row-fluid">
+            <div class="span12">
+              <div class="panel">
+                <div class="head">
+                  <h4>最近7天病毒详情</h4>
+                </div>
+                <div class="body">
+                  <table id="tbVirusInfo"></table>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="row-fluid">
+            <div class="span12">
+              <div class="panel">
+                <div class="head">
+                  <h4>最近7天扫描详情</h4>
+                </div>
+                <div class="body">
+                  <table id="tbVirusScan"></table>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="span6">
+          <div class="panel">
+            <div class="head">
+              <h4>客户端列表</h4>
+            </div>
+            <div class="body">
+              <table id="tbClientList"></table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

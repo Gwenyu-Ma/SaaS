@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/esm/!svn/ver/27692/soho/code/web/lib/Store
+END
+MongoCollection.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/esm/!svn/ver/27692/soho/code/web/lib/Store/MongoCollection.php
+END
+MongoClient.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/esm/!svn/ver/27692/soho/code/web/lib/Store/MongoClient.php
+END
+RdKFK.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esm/!svn/ver/24836/soho/code/web/lib/Store/RdKFK.php
+END
+MysqlWriteCluster.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/esm/!svn/ver/27349/soho/code/web/lib/Store/MysqlWriteCluster.php
+END
+MongoDB.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/esm/!svn/ver/23951/soho/code/web/lib/Store/MongoDB.php
+END
+Mysql.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esm/!svn/ver/23951/soho/code/web/lib/Store/Mysql.php
+END
+Redis.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esm/!svn/ver/23951/soho/code/web/lib/Store/Redis.php
+END
+MysqlCluster.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/esm/!svn/ver/27335/soho/code/web/lib/Store/MysqlCluster.php
+END
+RedisCluster.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/esm/!svn/ver/23965/soho/code/web/lib/Store/RedisCluster.php
+END

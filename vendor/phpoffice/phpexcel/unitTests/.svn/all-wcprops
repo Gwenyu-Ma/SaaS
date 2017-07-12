@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/unitTests
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/unitTests/bootstrap.php
+END
+phpunit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/unitTests/phpunit.xml
+END
+phpunit-cc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/unitTests/phpunit-cc.xml
+END
+testDataFileIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/unitTests/testDataFileIterator.php
+END

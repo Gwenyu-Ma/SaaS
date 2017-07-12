@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-validator/src/Barcode
+END
+Codabar.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-validator/src/Barcode/Codabar.php
+END
+Sscc.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-validator/src/Barcode/Sscc.php
+END
+Upce.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-validator/src/Barcode/Upce.php
+END
+AdapterInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-validator/src/Barcode/AdapterInterface.php
+END
+Gtin12.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-validator/src/Barcode/Gtin12.php
+END
+Code128.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-validator/src/Barcode/Code128.php
+END
+Gtin13.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-validator/src/Barcode/Gtin13.php
+END
+Gtin14.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-validator/src/Barcode/Gtin14.php
+END
+Code39ext.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-validator/src/Barcode/Code39ext.php
+END
+Code93ext.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-validator/src/Barcode/Code93ext.php
+END
+Issn.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-validator/src/Barcode/Issn.php
+END
+Intelligentmail.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-validator/src/Barcode/Intelligentmail.php
+END
+Planet.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-validator/src/Barcode/Planet.php
+END
+Ean2.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-validator/src/Barcode/Ean2.php
+END
+Code39.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-validator/src/Barcode/Code39.php
+END
+Code93.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-validator/src/Barcode/Code93.php
+END
+Itf14.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-validator/src/Barcode/Itf14.php
+END
+Leitcode.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-validator/src/Barcode/Leitcode.php
+END
+Ean5.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-validator/src/Barcode/Ean5.php
+END
+Royalmail.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-validator/src/Barcode/Royalmail.php
+END
+Ean8.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-validator/src/Barcode/Ean8.php
+END
+Postnet.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-validator/src/Barcode/Postnet.php
+END
+Identcode.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-validator/src/Barcode/Identcode.php
+END
+Code25interleaved.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-validator/src/Barcode/Code25interleaved.php
+END
+AbstractAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-validator/src/Barcode/AbstractAdapter.php
+END
+Ean12.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-validator/src/Barcode/Ean12.php
+END
+Ean13.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-validator/src/Barcode/Ean13.php
+END
+Ean14.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-validator/src/Barcode/Ean14.php
+END
+Ean18.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-validator/src/Barcode/Ean18.php
+END
+Code25.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-validator/src/Barcode/Code25.php
+END
+Upca.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-validator/src/Barcode/Upca.php
+END

@@ -1,0 +1,73 @@
+<div class="content-header">
+  <h1>终端命令{{clientName}}</h1>
+</div>
+<div class="content-body">
+  <div class="container-fluid cmd-panel">
+    {{#display}}
+    <div class="row-fluid">
+      <div class="span12">
+        <label class="title">目标终端</label>
+        <div class="well">
+          {{#clients}}
+          <label class="checkbox inline">
+            <input type="checkbox" name="chkClient" value="{{cId}}" checked> {{cName}}
+          </label>
+          {{/clients}}
+        </div>
+      </div>
+    </div>
+    {{/display}}
+    <div class="row-fluid">
+      <div class="span12">
+        <dl id="xav">
+          <dt>防病毒(XAV)</dt>
+          <dd>
+            <ul class="clearfix">
+              <li class="dropdown-layer">
+                <span>快速查杀 <i class="fa fa-caret-down"></i></span>
+                <ul>
+                  <li data-type="1" data-status="1" data-cmdid="12288">开始</li>
+                  <li data-type="1" data-status="4" data-cmdid="12289">停止</li>
+                </ul>
+              </li>
+              <li class="dropdown-layer">
+                <span>全盘查杀 <i class="fa fa-caret-down"></i></span>
+                <ul>
+                  <li data-type="2" data-status="1" data-cmdid="12290">开始</li>
+                  <li data-type="2" data-status="4" data-cmdid="12291">停止</li>
+                </ul>
+              </li>
+              <li class="dropdown-layer">
+                <span>文件监控 <i class="fa fa-caret-down"></i></span>
+                <ul>
+                  <li data-type="3" data-status="1" data-cmdid="12544">开启</li>
+                  <li data-type="3" data-status="0" data-cmdid="12545">关闭</li>
+                </ul>
+              </li>
+              <li class="dropdown-layer">
+                <span>邮件监控 <i class="fa fa-caret-down"></i></span>
+                <ul>
+                  <li data-type="4" data-status="1" data-cmdid="12800">开启</li>
+                  <li data-type="4" data-status="0" data-cmdid="12801">关闭</li>
+                </ul>
+              </li>
+            </ul>
+          </dd>
+        </dl>
+        <dl id="android">
+            <dt>安卓(android)</dt>
+            <dd>
+                <ul class="clearfix">
+                    <li class="dropdown-layer">
+                        <span>立即上报位置<i class="fa fa-caret-down"></i> </span>
+                        <ul>
+                            <li data-type="1" data-cmdid="16385">立即上报位置</li>
+                        </ul>
+                    </li>
+                </ul>
+            </dd>
+        </dl>
+      </div>
+    </div>
+  </div>
+</div>

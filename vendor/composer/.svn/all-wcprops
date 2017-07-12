@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/esm/!svn/ver/28656/soho/code/web/vendor/composer
+END
+autoload_files.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/esm/!svn/ver/25815/soho/code/web/vendor/composer/autoload_files.php
+END
+autoload_classmap.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/composer/autoload_classmap.php
+END
+autoload_real.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/esm/!svn/ver/28656/soho/code/web/vendor/composer/autoload_real.php
+END
+ClassLoader.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/esm/!svn/ver/28656/soho/code/web/vendor/composer/ClassLoader.php
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esm/!svn/ver/25815/soho/code/web/vendor/composer/LICENSE
+END
+autoload_static.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/esm/!svn/ver/28656/soho/code/web/vendor/composer/autoload_static.php
+END
+autoload_psr4.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/esm/!svn/ver/28656/soho/code/web/vendor/composer/autoload_psr4.php
+END
+installed.json
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esm/!svn/ver/28656/soho/code/web/vendor/composer/installed.json
+END
+autoload_namespaces.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/composer/autoload_namespaces.php
+END

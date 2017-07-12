@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/esm/!svn/ver/28748/soho/code/web/config
+END
+mgr_mysql.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/esm/!svn/ver/28452/soho/code/web/config/mgr_mysql.php
+END
+mongo.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/esm/!svn/ver/26650/soho/code/web/config/mongo.php
+END
+policy.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esm/!svn/ver/26957/soho/code/web/config/policy.php
+END
+rdkafka.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esm/!svn/ver/28435/soho/code/web/config/rdkafka.php
+END
+mysql.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/esm/!svn/ver/26642/soho/code/web/config/mysql.php
+END
+urls.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/esm/!svn/ver/28748/soho/code/web/config/urls.php
+END
+const.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/esm/!svn/ver/28450/soho/code/web/config/const.php
+END
+redis.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/esm/!svn/ver/26642/soho/code/web/config/redis.php
+END
+email.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/esm/!svn/ver/26286/soho/code/web/config/email.php
+END
+mysqlcluster.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esm/!svn/ver/27899/soho/code/web/config/mysqlcluster.php
+END
+rediscluster.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esm/!svn/ver/27899/soho/code/web/config/rediscluster.php
+END

@@ -1,0 +1,53 @@
+{
+  "total": 12,
+  "rows": [
+    {
+      "virusname": "Virus1",
+      "virusamount": 3
+    },
+    {
+      "virusname": "Virus2",
+      "virusamount": 31
+    },
+    {
+      "virusname": "Virus3",
+      "virusamount": 12
+    },
+    {
+      "virusname": "Virus4",
+      "virusamount": 4
+    },
+    {
+      "virusname": "Virus5",
+      "virusamount": 7
+    },
+    {
+      "virusname": "Virus6",
+      "virusamount": 8
+    },
+    {
+      "virusname": "Virus7",
+      "virusamount": 0
+    },
+    {
+      "virusname": "Virus8",
+      "virusamount": 3
+    },
+    {
+      "virusname": "Virus9",
+      "virusamount": 3
+    },
+    {
+      "virusname": "Virus10",
+      "virusamount": 13
+    },
+    {
+      "virusname": "Virus11",
+      "virusamount": 23
+    },
+    {
+      "virusname": "Virus12",
+      "virusamount": 33
+    }
+  ]
+}

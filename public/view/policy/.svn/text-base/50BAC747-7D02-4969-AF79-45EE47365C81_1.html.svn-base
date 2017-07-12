@@ -1,0 +1,96 @@
+<ul class="nav nav-tabs" id="policyTab">
+  <!--<li class="active"><a href="#tab-sub" data-toggle="tab">部署子产品</a></li>-->
+  <li class="active"><a href="#tab-policy" data-toggle="tab">升级策略</a></li>
+  <li><a href="#tab-net" data-toggle="tab">网络设置</a></li>
+</ul>
+<div class="tab-content">
+  <!--<div class="tab-pane in active" id="tab-sub">
+    <dl class="subproduct">
+      <dt><span>Windows防病毒</span></dt>
+      <dd id="xav">
+        <label class="radio inline"><input type="radio" name="xav" value="0">安装</label>
+        <label class="radio inline"><input type="radio" name="xav" value="1">不安装</label>
+        <label class="radio inline"><input type="radio" name="xav" value="2">不限制</label>
+      </dd>
+      <dt><span>Linux防病毒</span></dt>
+      <dd id="lin">        
+        <label class="radio inline"><input type="radio" name="lin" value="0">安装</label>
+        <label class="radio inline"><input type="radio" name="lin" value="1">不安装</label>
+        <label class="radio inline"><input type="radio" name="lin" value="2">不限制</label>
+      </dd>
+    </dl>
+  </div>-->
+  <div class="tab-pane in active" id="tab-policy">
+    <dl>
+      <dt>升级内容</dt>
+      <dd>
+        <label class="radio inline">
+          <input type="radio" value="0" name="component" libtype="all" checked >升级所有组件
+        </label>
+      </dd>
+      <dd>
+        <label class="radio inline">
+          <input type="radio" value="0" name="component" libtype="libonly" >仅升级病毒库 
+        </label>
+      </dd>
+      <dt>时间设置</dt>  
+      <dd>
+        <label class="radio">
+          <input type="radio" value="2" name="policy_time" >手动
+        </label>
+      </dd>
+      <dd>
+        <label class="radio inline">
+          <input type="radio" value="0" name="policy_time" checked >每天 
+        </label>
+        <input type="text" name="policy_timeTxt" value="9:00"  class="input-mini js_time"> (例19:00)
+      </dd> 
+      <dd>
+        <label  class="radio inline">
+          <input type="radio" value="1" name="policy_time"  >每周</label> 
+        <label class="checkbox inline">
+          <input type="checkbox" value="2" name="policy_timeWeek"  >周一</label><label  class="checkbox inline">
+          <input type="checkbox" value="4" name="policy_timeWeek" >周二</label>
+        <label  class="checkbox inline">
+          <input type="checkbox" value="8" name="policy_timeWeek" >周三</label>
+        <label  class="checkbox inline">
+          <input type="checkbox" value="16" name="policy_timeWeek" >周四</label>
+        <label  class="checkbox inline">
+          <input type="checkbox" value="32" name="policy_timeWeek" >周五</label>
+        <label  class="checkbox inline">
+          <input type="checkbox" value="64" name="policy_timeWeek" >周六</label>
+        <label  class="checkbox inline">
+          <input type="checkbox" value="1" name="policy_timeWeek" >周日</label>        
+      </dd>
+      <dd style="margin-left:67px;">
+        <input type="text" name="policy_timeTxt2" value="9:00" class="input-mini js_time"> (例19:00)
+      </dd>
+    </dl>
+  </div>
+  <div class="tab-pane in" id="tab-net">
+    <dl>
+      <dt>网络连接</dt>
+      <dd>
+        <label class="radio"><input type="radio" name="nettype" value="0" checked>使用IE设置</label>
+      </dd>
+      <dd>
+        <label class="radio"><input type="radio" name="nettype" value="1">直接连接</label>
+      </dd>
+      <dd>
+        <label class="radio"><input type="radio" name="nettype" value="2">通过代理</label>
+      </dd>
+      <dt>代理设置</dt>
+      <dd class="form-inline">
+        <label>代理服务器IP：<input type="text" name="ip" value=""  validation="ip"></label>
+        <label>端口：<input class="input-small" type="text" name="port" value="" validation="intNum"></label>
+      </dd>
+      <dd>
+        <label class="checkbox"><input type="checkbox" name="Authentication" value="">启动验证</label>
+      </dd>
+      <dd>
+        <label>账号：<input type="text" name="username" value="" disabled=""></label>
+        <label>密码：<input type="password" name="password" value="" disabled></label>
+      </dd>
+    </dl>
+  </div>
+</div>

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Reader
+END
+RTF.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Reader/RTF.php
+END
+ReaderInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Reader/ReaderInterface.php
+END
+HTML.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Reader/HTML.php
+END
+Word2007.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Reader/Word2007.php
+END
+MsDoc.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Reader/MsDoc.php
+END
+AbstractReader.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Reader/AbstractReader.php
+END
+ODText.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Reader/ODText.php
+END

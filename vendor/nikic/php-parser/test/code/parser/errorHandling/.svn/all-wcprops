@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/nikic/php-parser/test/code/parser/errorHandling
+END
+eofError.test
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/nikic/php-parser/test/code/parser/errorHandling/eofError.test
+END
+recovery.test
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/nikic/php-parser/test/code/parser/errorHandling/recovery.test
+END

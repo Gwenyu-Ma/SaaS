@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/nikic/php-parser/test/code/parser/expr/fetchAndCall
+END
+staticCall.test
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/nikic/php-parser/test/code/parser/expr/fetchAndCall/staticCall.test
+END
+staticPropertyFetch.test
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/nikic/php-parser/test/code/parser/expr/fetchAndCall/staticPropertyFetch.test
+END
+funcCall.test
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/nikic/php-parser/test/code/parser/expr/fetchAndCall/funcCall.test
+END
+objectAccess.test
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/nikic/php-parser/test/code/parser/expr/fetchAndCall/objectAccess.test
+END
+simpleArrayAccess.test
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/nikic/php-parser/test/code/parser/expr/fetchAndCall/simpleArrayAccess.test
+END
+args.test
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/nikic/php-parser/test/code/parser/expr/fetchAndCall/args.test
+END
+constantDeref.test
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/nikic/php-parser/test/code/parser/expr/fetchAndCall/constantDeref.test
+END
+newDeref.test
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/nikic/php-parser/test/code/parser/expr/fetchAndCall/newDeref.test
+END
+constFetch.test
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/nikic/php-parser/test/code/parser/expr/fetchAndCall/constFetch.test
+END

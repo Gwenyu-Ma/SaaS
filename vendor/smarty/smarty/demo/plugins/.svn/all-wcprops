@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/esm/!svn/ver/23943/soho/code/web/vendor/smarty/smarty/demo/plugins
+END
+resource.extendsall.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm/!svn/ver/23943/soho/code/web/vendor/smarty/smarty/demo/plugins/resource.extendsall.php
+END
+resource.mysql.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/esm/!svn/ver/23943/soho/code/web/vendor/smarty/smarty/demo/plugins/resource.mysql.php
+END
+cacheresource.memcache.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm/!svn/ver/23943/soho/code/web/vendor/smarty/smarty/demo/plugins/cacheresource.memcache.php
+END
+cacheresource.pdo.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/esm/!svn/ver/23943/soho/code/web/vendor/smarty/smarty/demo/plugins/cacheresource.pdo.php
+END
+cacheresource.apc.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/esm/!svn/ver/23943/soho/code/web/vendor/smarty/smarty/demo/plugins/cacheresource.apc.php
+END
+resource.mysqls.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/esm/!svn/ver/23943/soho/code/web/vendor/smarty/smarty/demo/plugins/resource.mysqls.php
+END
+cacheresource.mysql.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm/!svn/ver/23943/soho/code/web/vendor/smarty/smarty/demo/plugins/cacheresource.mysql.php
+END
+cacheresource.pdo_gzip.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm/!svn/ver/23943/soho/code/web/vendor/smarty/smarty/demo/plugins/cacheresource.pdo_gzip.php
+END

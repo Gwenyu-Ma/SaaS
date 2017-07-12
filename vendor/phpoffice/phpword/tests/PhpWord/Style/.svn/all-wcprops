@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Style
+END
+ListItemTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Style/ListItemTest.php
+END
+TextBoxTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Style/TextBoxTest.php
+END
+LineNumberingTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Style/LineNumberingTest.php
+END
+SectionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Style/SectionTest.php
+END
+ParagraphTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Style/ParagraphTest.php
+END
+TabTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Style/TabTest.php
+END
+FontTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Style/FontTest.php
+END
+RowTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Style/RowTest.php
+END
+IndentationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Style/IndentationTest.php
+END
+ShadingTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Style/ShadingTest.php
+END
+NumberingLevelTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Style/NumberingLevelTest.php
+END
+CellTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Style/CellTest.php
+END
+ImageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Style/ImageTest.php
+END
+AbstractStyleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Style/AbstractStyleTest.php
+END
+SpacingTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Style/SpacingTest.php
+END
+TOCTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Style/TOCTest.php
+END
+NumberingTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Style/NumberingTest.php
+END
+LineTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Style/LineTest.php
+END
+TableTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Style/TableTest.php
+END

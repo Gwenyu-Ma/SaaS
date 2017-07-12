@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/common
+END
+.scrutinizer.yml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/common/.scrutinizer.yml
+END
+.travis_shell_after_success.sh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/common/.travis_shell_after_success.sh
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/common/composer.json
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/common/LICENSE
+END
+COPYING.LESSER
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/common/COPYING.LESSER
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/common/.gitignore
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/common/VERSION
+END
+.travis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/common/.travis.yml
+END
+CHANGELOG.md
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/common/CHANGELOG.md
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/common/COPYING
+END
+phpunit.xml.dist
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/common/phpunit.xml.dist
+END
+phpmd.xml.dist
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/common/phpmd.xml.dist
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/common/README.md
+END

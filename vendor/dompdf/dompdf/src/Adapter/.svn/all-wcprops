@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/dompdf/dompdf/src/Adapter
+END
+GD.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/dompdf/dompdf/src/Adapter/GD.php
+END
+CPDF.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/dompdf/dompdf/src/Adapter/CPDF.php
+END
+PDFLib.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/dompdf/dompdf/src/Adapter/PDFLib.php
+END

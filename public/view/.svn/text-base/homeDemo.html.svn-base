@@ -1,0 +1,127 @@
+<div class="relative">
+    <div class="gridly">
+        <div class="" sortNum="0">
+          <div class="panel">
+            <div class="head">
+              <div class="chart_opt js_opt">
+                <span><i class="fa fa-chevron-down"></i></span>
+                <ul>
+                  <li><i class="fa fa-download js_downAsImg"></i></li>
+                </ul>
+              </div>
+              <h4>0最近7天健康情况</h4>
+            </div>
+            <div class="body" style="overflow:hidden;">
+              <div id="chart" style="height:300px;"></div>
+            </div>
+          </div>
+        </div>
+        <div class="" sortNum="1">
+          <div class="panel">
+            <div class="head">
+              <h4>1最近7天健康情况</h4>
+            </div>
+            <div class="body" style="overflow:hidden;">
+              <div id="chart1" style="height:300px;"></div>
+            </div>
+          </div>
+        </div>
+        <div class="" sortNum="2">
+          <div class="panel">
+            <div class="head">
+              <h4>2最近7天健康情况</h4>
+            </div>
+            <div class="body" style="overflow:hidden;">
+              <div id="chart2" style="height:300px;"></div>
+            </div>
+          </div>
+        </div>
+        <div class="" sortNum="3">
+          <div class="panel">
+            <div class="head">
+              <h4>3最近7天健康情况</h4>
+            </div>
+            <div class="body" style="overflow:hidden;">
+              <div id="chart3" style="height:300px;"></div>
+            </div>
+          </div>
+        </div>
+        <div class="" sortNum="4">
+          <div class="panel">
+            <div class="head">
+              <h4>4最近7天健康情况</h4>
+            </div>
+            <div class="body" style="overflow:hidden;">
+              <div id="chart4" style="height:300px;"></div>
+            </div>
+          </div>
+        </div>
+        <div class="" sortNum="5">
+          <div class="panel">
+            <div class="head">
+              <h4>5最近7天健康情况</h4>
+            </div>
+            <div class="body" style="overflow:hidden;">
+              <div id="chart5" style="height:300px;"></div>
+            </div>
+          </div>
+        </div>
+        <div class="" sortNum="6">
+          <div class="panel">
+            <div class="head">
+              <h4>6最近7天健康情况</h4>
+            </div>
+            <div class="body" style="overflow:hidden;">
+              <div id="chart6" style="height:300px;"></div>
+            </div>
+          </div>
+        </div>
+        <div class="" sortNum="7">
+          <div class="panel">
+            <div class="head">
+              <h4>7最近7天健康情况</h4>
+            </div>
+            <div class="body" style="overflow:hidden;">
+              <div id="chart7" style="height:300px;"></div>
+            </div>
+          </div>
+        </div>
+        <div class="" sortNum="8">
+          <div class="panel">
+            <div class="head">
+              <h4>8最近7天健康情况</h4>
+            </div>
+            <div class="body" style="overflow:hidden;">
+              <div id="chart8" style="height:300px;"></div>
+            </div>
+          </div>
+        </div>
+    </div>
+</div>
+<style type="text/css">
+
+.relative {
+    position: relative;
+    width: 100%;
+}
+
+.gridly {
+    width: 100%;    
+}
+
+.gridly > div {
+    width: 32%;
+    margin: 10px 0.5%;
+    /*box-sizing: border-box;*/
+    float: left;
+    background:#fff;
+}
+.placeDrag {
+    width: 32%;
+    margin: 10px 0.5%;
+    /*box-sizing: border-box;*/
+    float: left;
+    background:#fff;
+}
+</style>
+

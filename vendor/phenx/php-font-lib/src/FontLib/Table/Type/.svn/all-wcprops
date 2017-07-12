@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phenx/php-font-lib/src/FontLib/Table/Type
+END
+loca.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phenx/php-font-lib/src/FontLib/Table/Type/loca.php
+END
+kern.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phenx/php-font-lib/src/FontLib/Table/Type/kern.php
+END
+nameRecord.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phenx/php-font-lib/src/FontLib/Table/Type/nameRecord.php
+END
+cmap.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phenx/php-font-lib/src/FontLib/Table/Type/cmap.php
+END
+hmtx.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phenx/php-font-lib/src/FontLib/Table/Type/hmtx.php
+END
+name.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phenx/php-font-lib/src/FontLib/Table/Type/name.php
+END
+glyf.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phenx/php-font-lib/src/FontLib/Table/Type/glyf.php
+END
+head.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phenx/php-font-lib/src/FontLib/Table/Type/head.php
+END
+os2.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phenx/php-font-lib/src/FontLib/Table/Type/os2.php
+END
+hhea.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phenx/php-font-lib/src/FontLib/Table/Type/hhea.php
+END
+maxp.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phenx/php-font-lib/src/FontLib/Table/Type/maxp.php
+END
+post.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phenx/php-font-lib/src/FontLib/Table/Type/post.php
+END

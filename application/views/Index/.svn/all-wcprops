@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esm/!svn/ver/29012/soho/code/web/application/views/Index
+END
+error.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/esm/!svn/ver/27498/soho/code/web/application/views/Index/error.php
+END
+forgotPwdForPhone.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/esm/!svn/ver/27498/soho/code/web/application/views/Index/forgotPwdForPhone.html
+END
+activateAccount.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/esm/!svn/ver/25751/soho/code/web/application/views/Index/activateAccount.html
+END
+forgotPwdreset.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/esm/!svn/ver/27498/soho/code/web/application/views/Index/forgotPwdreset.html
+END
+index_new.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/esm/!svn/ver/29012/soho/code/web/application/views/Index/index_new.html
+END
+registerError.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/esm/!svn/ver/27498/soho/code/web/application/views/Index/registerError.php
+END
+forgotPwdDone.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/esm/!svn/ver/27498/soho/code/web/application/views/Index/forgotPwdDone.html
+END
+forgotPwdMsg.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/esm/!svn/ver/25751/soho/code/web/application/views/Index/forgotPwdMsg.html
+END
+resetPwdSucess.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/esm/!svn/ver/27498/soho/code/web/application/views/Index/resetPwdSucess.html
+END
+activation.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/esm/!svn/ver/27498/soho/code/web/application/views/Index/activation.php
+END
+register.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/esm/!svn/ver/25751/soho/code/web/application/views/Index/register.html
+END
+registerEnterprise.html
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/esm/!svn/ver/27498/soho/code/web/application/views/Index/registerEnterprise.html
+END
+registerDone.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/esm/!svn/ver/27498/soho/code/web/application/views/Index/registerDone.html
+END
+forgotPwdForEmail.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/esm/!svn/ver/27498/soho/code/web/application/views/Index/forgotPwdForEmail.html
+END
+success.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/esm/!svn/ver/27498/soho/code/web/application/views/Index/success.php
+END
+resetPwd.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/esm/!svn/ver/27498/soho/code/web/application/views/Index/resetPwd.html
+END
+registerError.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/esm/!svn/ver/27498/soho/code/web/application/views/Index/registerError.html
+END
+forgotPwdFromMail.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/esm/!svn/ver/25751/soho/code/web/application/views/Index/forgotPwdFromMail.html
+END
+activateAccountFromMail.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/esm/!svn/ver/25751/soho/code/web/application/views/Index/activateAccountFromMail.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/esm/!svn/ver/25751/soho/code/web/application/views/Index/index.html
+END
+login.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/esm/!svn/ver/27498/soho/code/web/application/views/Index/login.html
+END
+login_family.html
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/esm/!svn/ver/26950/soho/code/web/application/views/Index/login_family.html
+END
+uninstall.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/esm/!svn/ver/28771/soho/code/web/application/views/Index/uninstall.html
+END
+forgotPwd.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/esm/!svn/ver/27498/soho/code/web/application/views/Index/forgotPwd.html
+END
+registerFromMail.html
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/esm/!svn/ver/25751/soho/code/web/application/views/Index/registerFromMail.html
+END
+registerSetPwd.html
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/esm/!svn/ver/25751/soho/code/web/application/views/Index/registerSetPwd.html
+END

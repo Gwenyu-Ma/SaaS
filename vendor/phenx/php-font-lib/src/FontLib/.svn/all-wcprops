@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phenx/php-font-lib/src/FontLib
+END
+Autoloader.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phenx/php-font-lib/src/FontLib/Autoloader.php
+END
+BinaryStream.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phenx/php-font-lib/src/FontLib/BinaryStream.php
+END
+EncodingMap.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phenx/php-font-lib/src/FontLib/EncodingMap.php
+END
+Font.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phenx/php-font-lib/src/FontLib/Font.php
+END
+AdobeFontMetrics.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phenx/php-font-lib/src/FontLib/AdobeFontMetrics.php
+END
+Header.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phenx/php-font-lib/src/FontLib/Header.php
+END

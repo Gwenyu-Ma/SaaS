@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/esm/!svn/ver/28783/soho/code/web/mgr/public/build
+END
+webpack.base.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/esm/!svn/ver/28242/soho/code/web/mgr/public/build/webpack.base.conf.js
+END
+dev-client.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esm/!svn/ver/28242/soho/code/web/mgr/public/build/dev-client.js
+END
+webpack.dev.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/esm/!svn/ver/28533/soho/code/web/mgr/public/build/webpack.dev.conf.js
+END
+build.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/esm/!svn/ver/28783/soho/code/web/mgr/public/build/build.js
+END
+utils.js
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/esm/!svn/ver/28242/soho/code/web/mgr/public/build/utils.js
+END
+dev-server.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esm/!svn/ver/28783/soho/code/web/mgr/public/build/dev-server.js
+END
+check-versions.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/esm/!svn/ver/28242/soho/code/web/mgr/public/build/check-versions.js
+END
+webpack.prod.conf.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/esm/!svn/ver/28783/soho/code/web/mgr/public/build/webpack.prod.conf.js
+END

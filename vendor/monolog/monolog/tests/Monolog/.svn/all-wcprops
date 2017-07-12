@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/esm/!svn/ver/25128/soho/code/web/vendor/monolog/monolog/tests/Monolog
+END
+PsrLogCompatTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm/!svn/ver/24136/soho/code/web/vendor/monolog/monolog/tests/Monolog/PsrLogCompatTest.php
+END
+TestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/esm/!svn/ver/24136/soho/code/web/vendor/monolog/monolog/tests/Monolog/TestCase.php
+END
+LoggerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/esm/!svn/ver/24136/soho/code/web/vendor/monolog/monolog/tests/Monolog/LoggerTest.php
+END
+ErrorHandlerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm/!svn/ver/24136/soho/code/web/vendor/monolog/monolog/tests/Monolog/ErrorHandlerTest.php
+END
+RegistryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/esm/!svn/ver/24136/soho/code/web/vendor/monolog/monolog/tests/Monolog/RegistryTest.php
+END

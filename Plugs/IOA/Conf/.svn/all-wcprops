@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/esm/!svn/ver/28771/soho/code/web/Plugs/IOA/Conf
+END
+IErrMsg.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/esm/!svn/ver/28109/soho/code/web/Plugs/IOA/Conf/IErrMsg.class.php
+END
+IIoaSdkVariable.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/esm/!svn/ver/28771/soho/code/web/Plugs/IOA/Conf/IIoaSdkVariable.class.php
+END
+IErrCode.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/esm/!svn/ver/28109/soho/code/web/Plugs/IOA/Conf/IErrCode.class.php
+END
+config.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/esm/!svn/ver/28109/soho/code/web/Plugs/IOA/Conf/config.php
+END

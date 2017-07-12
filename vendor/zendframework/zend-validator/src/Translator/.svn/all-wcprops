@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-validator/src/Translator
+END
+TranslatorAwareInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-validator/src/Translator/TranslatorAwareInterface.php
+END
+TranslatorInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-validator/src/Translator/TranslatorInterface.php
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/esm/!svn/ver/25128/soho/code/web/vendor/monolog/monolog/src/Monolog/Formatter
+END
+WildfireFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/esm/!svn/ver/24136/soho/code/web/vendor/monolog/monolog/src/Monolog/Formatter/WildfireFormatter.php
+END
+ScalarFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/esm/!svn/ver/24136/soho/code/web/vendor/monolog/monolog/src/Monolog/Formatter/ScalarFormatter.php
+END
+FlowdockFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/esm/!svn/ver/24136/soho/code/web/vendor/monolog/monolog/src/Monolog/Formatter/FlowdockFormatter.php
+END
+JsonFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/esm/!svn/ver/24136/soho/code/web/vendor/monolog/monolog/src/Monolog/Formatter/JsonFormatter.php
+END
+NormalizerFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm/!svn/ver/24136/soho/code/web/vendor/monolog/monolog/src/Monolog/Formatter/NormalizerFormatter.php
+END
+GelfMessageFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/esm/!svn/ver/25128/soho/code/web/vendor/monolog/monolog/src/Monolog/Formatter/GelfMessageFormatter.php
+END
+LogstashFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/esm/!svn/ver/24136/soho/code/web/vendor/monolog/monolog/src/Monolog/Formatter/LogstashFormatter.php
+END
+MongoDBFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/esm/!svn/ver/24136/soho/code/web/vendor/monolog/monolog/src/Monolog/Formatter/MongoDBFormatter.php
+END
+ElasticaFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/esm/!svn/ver/25128/soho/code/web/vendor/monolog/monolog/src/Monolog/Formatter/ElasticaFormatter.php
+END
+ChromePHPFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/esm/!svn/ver/24136/soho/code/web/vendor/monolog/monolog/src/Monolog/Formatter/ChromePHPFormatter.php
+END
+LineFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/esm/!svn/ver/24136/soho/code/web/vendor/monolog/monolog/src/Monolog/Formatter/LineFormatter.php
+END
+LogglyFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/esm/!svn/ver/24136/soho/code/web/vendor/monolog/monolog/src/Monolog/Formatter/LogglyFormatter.php
+END
+FormatterInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/esm/!svn/ver/24136/soho/code/web/vendor/monolog/monolog/src/Monolog/Formatter/FormatterInterface.php
+END
+FluentdFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/esm/!svn/ver/24136/soho/code/web/vendor/monolog/monolog/src/Monolog/Formatter/FluentdFormatter.php
+END
+HtmlFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/esm/!svn/ver/24136/soho/code/web/vendor/monolog/monolog/src/Monolog/Formatter/HtmlFormatter.php
+END

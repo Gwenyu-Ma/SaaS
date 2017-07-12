@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/unitTests/rawTestData/Shared
+END
+CodePage.data
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/unitTests/rawTestData/Shared/CodePage.data
+END
+DateTimeFormattedPHPToExcel1900.data
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/unitTests/rawTestData/Shared/DateTimeFormattedPHPToExcel1900.data
+END
+FontSizeToPixels.data
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/unitTests/rawTestData/Shared/FontSizeToPixels.data
+END
+DateTimeExcelToPHP1900Timezone.data
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/unitTests/rawTestData/Shared/DateTimeExcelToPHP1900Timezone.data
+END
+PasswordHashes.data
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/unitTests/rawTestData/Shared/PasswordHashes.data
+END
+CentimeterSizeToPixels.data
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/unitTests/rawTestData/Shared/CentimeterSizeToPixels.data
+END
+DateTimeExcelToPHP1900.data
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/unitTests/rawTestData/Shared/DateTimeExcelToPHP1900.data
+END
+DateTimePHPToExcel1900.data
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/unitTests/rawTestData/Shared/DateTimePHPToExcel1900.data
+END
+DateTimeFormatCodes.data
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/unitTests/rawTestData/Shared/DateTimeFormatCodes.data
+END
+InchSizeToPixels.data
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/unitTests/rawTestData/Shared/InchSizeToPixels.data
+END
+DateTimeExcelToPHP1904.data
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/unitTests/rawTestData/Shared/DateTimeExcelToPHP1904.data
+END
+DateTimePHPToExcel1904.data
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/unitTests/rawTestData/Shared/DateTimePHPToExcel1904.data
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/esm/!svn/ver/29055/soho/code/web/scripts
+END
+mongodbump.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/esm/!svn/ver/28862/soho/code/web/scripts/mongodbump.sh
+END
+test.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/esm/!svn/ver/27477/soho/code/web/scripts/test.php
+END
+backup_db_22.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esm/!svn/ver/29055/soho/code/web/scripts/backup_db_22.sh
+END
+sendemail.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/esm/!svn/ver/27477/soho/code/web/scripts/sendemail.php
+END
+clean.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esm/!svn/ver/26707/soho/code/web/scripts/clean.php
+END
+backup_db_all.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/esm/!svn/ver/29055/soho/code/web/scripts/backup_db_all.sh
+END

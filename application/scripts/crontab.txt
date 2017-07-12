@@ -1,0 +1,43 @@
+91:
+	#客户端信息写入mongodb
+	*/1 * * * *  sleep 30 && /usr/local/bin/php /data/code/www/Api/readmq.php
+
+	#更改客户端卸载状态
+	*/1 * * * * /usr/local/bin/php /data/code/www/Api/bwUnset.php
+
+	#发送邮件任务
+	*/1 * * * * /usr/local/bin/php /data/code/www/scripts/sendemail.php
+
+	#清理失败的注册信息
+	0 */1 * * * /usr/local/bin/php /data/code/www/scripts/clean.php
+
+	#初始化爱办公策略(已删除)
+	#*/1 * * * * /usr/local/bin/php /data/code/www/application/scripts/disk.php >> /tmp/work/disk.log 2>&1
+	
+	#初始化爱办公策略
+	*/1 * * * * /usr/bin/wget -q -O /tmp/work/disk.log http://127.0.0.1/Scripts/disk/
+	
+	#从任务中获取调用IOA失败的username，eid，再次尝试去IOA获取orgid，userid
+	*/1 * * * * /usr/bin/wget -q -O /tmp/work/getIoaOrgid.log http://127.0.0.1/Scripts/getIoaOrgid/
+	
+	#从任务中获取修改企业名称时调用IOA失败的队列
+	*/1 * * * * /usr/bin/wget -q -O /tmp/work/modidyIoaCompany.log http://127.0.0.1/Scripts/modidyIoaCompany/
+
+	#从任务中获取修改管理员时调用IOA失败的队列
+	*/1 * * * * /usr/bin/wget -q -O /tmp/work/modidyIoa.log http://127.0.0.1/Scripts/modidyIoa/
+	
+	#客户端连接中心获取IOA失败，重新获取
+	*/1 * * * * /usr/local/bin/php /data/code/www/application/scripts/sguid.php >> /tmp/work/sguid.log 2>&1
+
+91服务器定时全量备份mysql
+    30 1 * * * /data/code/www/scripts/backup_db_all.sh > /tmp/work/backup_db_all.log 2>&1
+
+92服务器定时全量备份rs_esmlog_soho1
+    30 1 * * * /data/code/www/scripts/backup_db_22.sh > /tmp/work/backup_db_all.log 2>&1
+ 
+全量备份mongodb
+   10 2 * * * /data/code/www/scripts/mongodbump.sh > /tmp/work/backup_mongodb.log 2>&1
+
+93打包服务器：
+    #打包、签名任务
+	*/1 * * * * sleep 30 &&  /usr/local/bin/php /data/code/www/dl/scripts/work.php >> /tmp/work/work.log 2>&1

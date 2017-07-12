@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/esm/!svn/ver/28165/soho/code/web/Plugs/IOA/Api
+END
+AuthApi.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/esm/!svn/ver/28165/soho/code/web/Plugs/IOA/Api/AuthApi.class.php
+END
+BasicApi.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/esm/!svn/ver/28109/soho/code/web/Plugs/IOA/Api/BasicApi.class.php
+END
+MemberApi.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/esm/!svn/ver/28109/soho/code/web/Plugs/IOA/Api/MemberApi.class.php
+END
+OrgApi.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esm/!svn/ver/28109/soho/code/web/Plugs/IOA/Api/OrgApi.class.php
+END

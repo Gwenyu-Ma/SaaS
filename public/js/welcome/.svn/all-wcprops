@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/esm/!svn/ver/29013/soho/code/web/public/js/welcome
+END
+activateAccountFromMail.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/esm/!svn/ver/28267/soho/code/web/public/js/welcome/activateAccountFromMail.js
+END
+virus_map.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esm/!svn/ver/28266/soho/code/web/public/js/welcome/virus_map.js
+END
+login.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/esm/!svn/ver/28267/soho/code/web/public/js/welcome/login.js
+END
+es-data.json
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esm/!svn/ver/26877/soho/code/web/public/js/welcome/es-data.json
+END
+forgotPwd.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esm/!svn/ver/28267/soho/code/web/public/js/welcome/forgotPwd.js
+END
+registerFromMail.js
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/esm/!svn/ver/28267/soho/code/web/public/js/welcome/registerFromMail.js
+END
+registerSetPwd.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/esm/!svn/ver/28267/soho/code/web/public/js/welcome/registerSetPwd.js
+END
+activateAccount.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/esm/!svn/ver/28267/soho/code/web/public/js/welcome/activateAccount.js
+END
+index_new.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esm/!svn/ver/29013/soho/code/web/public/js/welcome/index_new.js
+END
+login_new.js
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esm/!svn/ver/27098/soho/code/web/public/js/welcome/login_new.js
+END
+forgotPwdMsg.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/esm/!svn/ver/24730/soho/code/web/public/js/welcome/forgotPwdMsg.js
+END
+forgotPwd_new.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/esm/!svn/ver/28267/soho/code/web/public/js/welcome/forgotPwd_new.js
+END
+register.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/esm/!svn/ver/23556/soho/code/web/public/js/welcome/register.js
+END
+register_new.js
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/esm/!svn/ver/28308/soho/code/web/public/js/welcome/register_new.js
+END
+resetpwd.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/esm/!svn/ver/28037/soho/code/web/public/js/welcome/resetpwd.js
+END
+forgotPwdFromMail.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/esm/!svn/ver/28267/soho/code/web/public/js/welcome/forgotPwdFromMail.js
+END

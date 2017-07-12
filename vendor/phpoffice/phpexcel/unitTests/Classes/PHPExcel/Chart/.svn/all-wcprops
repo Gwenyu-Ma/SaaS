@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/unitTests/Classes/PHPExcel/Chart
+END
+LayoutTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/unitTests/Classes/PHPExcel/Chart/LayoutTest.php
+END
+LegendTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/unitTests/Classes/PHPExcel/Chart/LegendTest.php
+END
+DataSeriesValuesTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/unitTests/Classes/PHPExcel/Chart/DataSeriesValuesTest.php
+END

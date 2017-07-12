@@ -1,0 +1,65 @@
+{
+  "total": 12,
+  "rows": [
+    {
+      "clientname": "Client1",
+      "online": true,
+      "health": true
+    },
+    {
+      "clientname": "Client2",
+      "online": true,
+      "health": false
+    },
+    {
+      "clientname": "Client3",
+      "online": false,
+      "health": true
+    },
+    {
+      "clientname": "Client4",
+      "online": false,
+      "health": false
+    },
+    {
+      "clientname": "Client5",
+      "online": true,
+      "health": true
+    },
+    {
+      "clientname": "Client6",
+      "online": true,
+      "health": false
+    },
+    {
+      "clientname": "Client7",
+      "online": false,
+      "health": true
+    },
+    {
+      "clientname": "Client8",
+      "online": false,
+      "health": false
+    },
+    {
+      "clientname": "Client9",
+      "online": true,
+      "health": true
+    },
+    {
+      "clientname": "Client10",
+      "online": true,
+      "health": false
+    },
+    {
+      "clientname": "Client11",
+      "online": false,
+      "health": true
+    },
+    {
+      "clientname": "Client12",
+      "online": false,
+      "health": false
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Style
+END
+Frame.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Style/Frame.php
+END
+ListItem.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Style/ListItem.php
+END
+TextBox.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Style/TextBox.php
+END
+LineNumbering.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Style/LineNumbering.php
+END
+Shape.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Style/Shape.php
+END
+Extrusion.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Style/Extrusion.php
+END
+Chart.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Style/Chart.php
+END
+Section.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Style/Section.php
+END
+Paragraph.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Style/Paragraph.php
+END
+Tab.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Style/Tab.php
+END
+Font.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Style/Font.php
+END
+Row.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Style/Row.php
+END
+Paper.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Style/Paper.php
+END
+Indentation.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Style/Indentation.php
+END
+Shading.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Style/Shading.php
+END
+Border.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Style/Border.php
+END
+NumberingLevel.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Style/NumberingLevel.php
+END
+Outline.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Style/Outline.php
+END
+Cell.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Style/Cell.php
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Style/Image.php
+END
+AbstractStyle.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Style/AbstractStyle.php
+END
+Spacing.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Style/Spacing.php
+END
+Shadow.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Style/Shadow.php
+END
+TOC.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Style/TOC.php
+END
+Numbering.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Style/Numbering.php
+END
+Fill.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Style/Fill.php
+END
+Line.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Style/Line.php
+END
+Table.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Style/Table.php
+END

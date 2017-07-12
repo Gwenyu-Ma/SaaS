@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/esm/!svn/ver/29686/soho/code/web/mgr/public
+END
+.eslintignore
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/esm/!svn/ver/28242/soho/code/web/mgr/public/.eslintignore
+END
+.jshintignore
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/esm/!svn/ver/28242/soho/code/web/mgr/public/.jshintignore
+END
+gulpfile.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esm/!svn/ver/28783/soho/code/web/mgr/public/gulpfile.js
+END
+package.json
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esm/!svn/ver/28783/soho/code/web/mgr/public/package.json
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/esm/!svn/ver/28242/soho/code/web/mgr/public/.gitignore
+END
+endfontapi.md
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/esm/!svn/ver/28783/soho/code/web/mgr/public/endfontapi.md
+END
+index_dev.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/esm/!svn/ver/28783/soho/code/web/mgr/public/index_dev.html
+END
+.babelrc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esm/!svn/ver/28242/soho/code/web/mgr/public/.babelrc
+END
+.editorconfig
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/esm/!svn/ver/28242/soho/code/web/mgr/public/.editorconfig
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/esm/!svn/ver/29446/soho/code/web/mgr/public/index.html
+END
+semantic.json
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/esm/!svn/ver/28242/soho/code/web/mgr/public/semantic.json
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/esm/!svn/ver/28242/soho/code/web/mgr/public/README.md
+END
+.eslintrc.js
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esm/!svn/ver/28783/soho/code/web/mgr/public/.eslintrc.js
+END

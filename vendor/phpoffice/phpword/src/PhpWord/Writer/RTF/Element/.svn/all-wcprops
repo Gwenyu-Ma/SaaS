@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Writer/RTF/Element
+END
+TextBreak.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Writer/RTF/Element/TextBreak.php
+END
+TextRun.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Writer/RTF/Element/TextRun.php
+END
+ListItem.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Writer/RTF/Element/ListItem.php
+END
+AbstractElement.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Writer/RTF/Element/AbstractElement.php
+END
+Link.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Writer/RTF/Element/Link.php
+END
+PageBreak.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Writer/RTF/Element/PageBreak.php
+END
+Title.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Writer/RTF/Element/Title.php
+END
+Container.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Writer/RTF/Element/Container.php
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Writer/RTF/Element/Image.php
+END
+Text.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Writer/RTF/Element/Text.php
+END
+Table.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Writer/RTF/Element/Table.php
+END

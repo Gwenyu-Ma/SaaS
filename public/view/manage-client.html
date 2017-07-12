@@ -1,0 +1,74 @@
+{{#showHeader}}
+<div class="content-header">  
+  <h1>当前组: {{groupName}}</h1>
+  <div class="btn-group">
+    {{#group}}
+    <a href="#manage/groupPolicy?{{groupId}}" class="btn">组策略</a>
+    <a href="#manage/groupCmd?{{groupId}}" class="btn">组命令</a>
+    {{/group}}
+    {{#all}}
+    <a href="#manage/groupPolicy?{{groupId}}" class="btn">全网策略</a>
+    <a href="#manage/groupCmd?{{groupId}}" class="btn">全网命令</a>
+    {{/all}}
+  </div>  
+</div>
+{{/showHeader}}
+<div class="content-body">
+  <div class="form-inline bar-search">    
+    <label class="mr5">计算机名称：<input id="search_name" type="text" ></label>    
+    <label class="mr5">IP地址：<input id="search_ip" type="text" ></label>    
+    <label class="mr5">MAC：<input id="search_mac" type="text" ></label>    
+    <label class="mr5">操作系统：<input id="search_sys" type="text" ></label>    
+    <label class="mr5">版本：<input id="search_ver" type="text" ></label>    
+    <button id="btnSearch" class="btn btn-primary btn-small mr5"> <i class="icon-search icon-white"></i></button>
+  </div>
+  <div class="container-fluid">
+    <div class="row-fluid">
+      <div class="span12">
+        <div id="custom-toolbar" class="form-inline">
+          <!--<a id="btnMoveTo" href="#" class="btn btn-primary">移动到</a>
+          <a id="btnRemove" href="#" class="btn btn-primary">移除</a>-->
+          <button id="btnMoveTo" class="btn btn-primary">移动到</button>
+          {{#remove}}
+          <button id="btnRemove" class="btn btn-primary">移除</button>
+          {{/remove}}
+          <a id="btnClientPolicy" href="#manage/clientCmd" class="btn btn-primary">终端命令</a>
+        </div>        
+        <table id="tbClient" data-toolbar-align="left" data-toolbar="#custom-toolbar"></table>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div id="mMoveTo" class="modal hide fade" tabindex="-1">
+  <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+    <h3>移动到</h3>
+  </div>
+  <div class="modal-body">
+    <div class="row-fluid">
+      <label>终端</label>
+      <input id="txtClient" type="text" class="span12">
+      <label>目标组</label>
+      <div id="targetGroup" class="well well-small" style="overflow:auto;max-height:260px;">
+        <label class="radio">
+          <input type="radio" name="radioGroup" value="option1" checked>
+          01组
+        </label>
+        <label class="radio">
+          <input type="radio" name="radioGroup" value="option2">
+          02组
+        </label>
+        <label class="radio">
+          <input type="radio" name="radioGroup" value="option2">
+          03组
+        </label>
+      </div>
+    </div>
+  </div>
+  <div class="modal-footer">
+    <button class="btn" data-dismiss="modal">取消</button>
+    <button id="btnSaveMoveTo" class="btn btn-primary">确定</button>
+  </div>
+</div>

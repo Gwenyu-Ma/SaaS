@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/esm/!svn/ver/25494/soho/code/web/public/dep/es5-shim/tests
+END
+.eslintrc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/esm/!svn/ver/25494/soho/code/web/public/dep/es5-shim/tests/.eslintrc
+END
+native.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/esm/!svn/ver/25494/soho/code/web/public/dep/es5-shim/tests/native.html
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/esm/!svn/ver/25494/soho/code/web/public/dep/es5-shim/tests/index.html
+END
+index.min.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/esm/!svn/ver/25494/soho/code/web/public/dep/es5-shim/tests/index.min.html
+END

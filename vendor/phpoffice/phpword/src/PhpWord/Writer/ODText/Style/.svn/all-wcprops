@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Writer/ODText/Style
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Writer/ODText/Style/Image.php
+END
+AbstractStyle.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Writer/ODText/Style/AbstractStyle.php
+END
+Section.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Writer/ODText/Style/Section.php
+END
+Paragraph.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Writer/ODText/Style/Paragraph.php
+END
+Font.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Writer/ODText/Style/Font.php
+END
+Table.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/src/PhpWord/Writer/ODText/Style/Table.php
+END

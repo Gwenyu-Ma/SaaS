@@ -1,0 +1,161 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    font-family: "Microsoft YaHei", "sans-serif";
+}
+.body{
+	background: #fff;
+	background-color: #fff;
+}
+.left_side{
+	float: left;
+	position: fixed;
+	z-index: 1;
+}
+.right_side{
+	margin-left: 230px;
+}
+.icon{
+	width: 230px;
+	height: 62px;
+	border: 1px solid #dfdfdf;
+}
+.menu{
+	width: 230px;
+	border: 1px solid #dfdfdf;
+}
+.menu ul li{
+	width: 230px;
+	height: 40px;
+	position: relative;
+}
+.menu ul li i{
+	position: absolute;
+	top: 8px;
+	left: 28px;
+}
+.menu ul li a{
+	display: block;
+	width: 188px;
+	padding-left: 40px;
+	height: 40px;
+	line-height: 40px;
+	text-decoration: none;
+	color: #676e7b;
+	font-size: 14px;
+}
+.menu_list{
+	display: none;
+}
+.menu_list li a{
+	text-indent: 40px;
+}
+.menu ul li a:hover{
+	background: #f6f6f6;
+	border-right: 2px solid #29bcef;
+}
+.current a{
+	display: inline-block;
+	background: #eff1fb;
+	color: #4c5481;
+	border-right: 2px solid #29bcef;
+}
+.title{
+	width: 100%;
+	height: 62px;
+	border-top: 1px solid #dfdfdf;
+	border-bottom: 1px solid #dfdfdf;
+	background: #535c8d;
+	font-size: 18px;
+	color: #fff;
+	line-height: 62px;
+	text-indent: 20px;
+	position: fixed;
+	z-index: 1;
+}
+.content{
+	padding: 20px 20px 0 20px;
+	position: relative;
+	top: 62px;
+}
+.detail{
+	border: 1px solid #4c5481;
+	padding: 35px;
+	position: relative;
+	margin: 20px 0;
+}
+.detail i{
+	display: inline-block;
+	padding: 0 25px;
+	position: absolute;
+	top: -10px;
+	background: #fff;
+	color: #4c5481;
+	font-weight: bold;
+}
+.detail_title{
+	font-size: 15px;
+	color: #416666;
+	padding: 15px;
+}
+.detail p{
+	font-size: 15px;
+	color: #7b7b7b;
+	line-height: 30px;
+}
+.detail span{
+	display: block;
+	color: #999;
+	text-indent: 35px;
+	font-size: 14px;
+	line-height: 24px;
+}
+.large{
+	padding: 30px;
+	width: 660px;
+	margin: 0 auto;
+	display: block;
+}
+.middle{
+	padding: 30px;
+	width: 280px;
+	margin: 0 auto;
+	display: block;
+}
+.small{
+	padding: 30px;
+	width: 100px;
+	margin: 0 auto;
+	display: block;
+}
+.font_icon{
+	width: 28px;
+	vertical-align: middle;
+	padding: 0 5px;
+}
+.font_icon1{
+	width: 120px;
+	vertical-align: middle;
+	padding: 0 5px;
+}
+.font_icon2{
+	width: 80px;
+	vertical-align: middle;
+	padding: 0 5px;
+}
+.two{
+	padding: 10px 0;
+	width: 48%;
+	margin-right: 2%;
+	float: left;
+}
+.two p{
+	text-indent: 5px;
+}
+.two img{
+	width: 240px;
+}
+.clear{
+	clear:both;
+}

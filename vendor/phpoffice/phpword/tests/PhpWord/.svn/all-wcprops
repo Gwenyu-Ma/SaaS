@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord
+END
+TemplateProcessorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/TemplateProcessorTest.php
+END
+IOFactoryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/IOFactoryTest.php
+END
+MediaTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/MediaTest.php
+END
+StyleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/StyleTest.php
+END
+SettingsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/SettingsTest.php
+END
+PhpWordTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/PhpWordTest.php
+END

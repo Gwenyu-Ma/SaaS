@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/esm/!svn/ver/25128/soho/code/web/vendor/txthinking/buggy/tests
+END
+IsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/esm/!svn/ver/25128/soho/code/web/vendor/txthinking/buggy/tests/IsTest.php
+END
+TestCase.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/esm/!svn/ver/25128/soho/code/web/vendor/txthinking/buggy/tests/TestCase.php
+END
+HttpTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/esm/!svn/ver/25128/soho/code/web/vendor/txthinking/buggy/tests/HttpTest.php
+END

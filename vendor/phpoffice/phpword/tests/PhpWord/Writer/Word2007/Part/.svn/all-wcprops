@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Writer/Word2007/Part
+END
+AbstractPartTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Writer/Word2007/Part/AbstractPartTest.php
+END
+DocumentTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Writer/Word2007/Part/DocumentTest.php
+END
+FooterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Writer/Word2007/Part/FooterTest.php
+END
+FootnotesTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Writer/Word2007/Part/FootnotesTest.php
+END
+SettingsTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Writer/Word2007/Part/SettingsTest.php
+END
+StylesTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Writer/Word2007/Part/StylesTest.php
+END
+NumberingTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Writer/Word2007/Part/NumberingTest.php
+END
+HeaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Writer/Word2007/Part/HeaderTest.php
+END

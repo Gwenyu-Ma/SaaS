@@ -1,0 +1,131 @@
+body {
+    background: #f1f1f2;
+    min-width: 1200px;
+    overflow-x: auto;
+}
+
+input[type=text] {
+    outline: none;
+}
+
+.ui.menu {
+    margin: 0;
+}
+
+.ui.menu.head {
+    background: #474e7a;
+    height: 70px;
+    margin: 0;
+    border-radius: 0;
+    border: 0;
+    font-family: '微软雅黑';
+    color: #fff;
+}
+
+.head h1 {
+    margin: 0;
+    padding: 0;
+    text-indent: 1em;
+    line-height: 70px;
+    color: #fff;
+    font-size: 24px;
+    font-family: '微软雅黑';
+}
+
+.head .ui.item.logout,
+.head .ui.item.logout:hover {
+    color: #c98950;
+    background: url(../img/border.png) no-repeat left center;
+}
+
+.ui.menu.head span.item {
+    color: #fff;
+}
+
+.ui.menu.head .item:before {
+    width: 0;
+}
+
+.head .logo {
+    float: left;
+    width: 180px;
+    height: 70px;
+}
+
+.msg-box {
+    min-width: 300px;
+}
+
+.msg-box .header {
+    background: none!important;
+    padding: 10px 0!important;
+}
+
+.msg-box .content {
+    background: none!important;
+}
+
+.warp {
+    padding: 20px;
+}
+
+.warp-nav {}
+
+.warp-nav.ui.menu {
+    height: 30px;
+    min-height: 30px;
+    font-size: 14px;
+}
+
+.warp-nav.ui.tabular.menu .item {
+    border-radius: 0;
+    border-color: #D4D4D5;
+    margin-left: -1px;
+    background: #fff;
+    border-top-width: 1px;
+    color: #79808c;
+}
+
+.warp-nav.ui.tabular.menu .item:first {
+    margin-left: 0;
+}
+
+.warp-nav.ui.tabular.menu .active.item {
+    border-top: 3px solid #29bcef;
+    color: #29bcef;
+    border-radius: 0!important;
+}
+
+.warp-content {
+    border: 1px solid #e0e0e0;
+    border-top: 1px solid transparent;
+    background: #fff;
+}
+
+.c-icon {
+    display: inline-block;
+    height: 30px;
+    width: 30px;
+    vertical-align: -6px;
+    margin-right: 10px;
+}
+
+.icon-win {
+    background: url(../img/ico01.png) no-repeat 0 0;
+}
+
+.icon-linux {
+    background: url(../img/ico02.png) no-repeat 0 0;
+}
+
+.icon-andriod {
+    background: url(../img/ico03.png) no-repeat 0 0;
+}
+
+.icon-enterprise {
+    background: url(../img/ico04.png) no-repeat 0 0;
+}
+
+.icon-family {
+    background: url(../img/ico05.png) no-repeat 0 0;
+}

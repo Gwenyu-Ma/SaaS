@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-escaper
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-escaper/composer.json
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-escaper/LICENSE.txt
+END
+CONTRIBUTING.md
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-escaper/CONTRIBUTING.md
+END
+.coveralls.yml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-escaper/.coveralls.yml
+END
+phpunit.xml.dist
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-escaper/phpunit.xml.dist
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-escaper/README.md
+END
+phpunit.xml.travis
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/zendframework/zend-escaper/phpunit.xml.travis
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/symfony/polyfill-util
+END
+BinaryNoFuncOverload.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/symfony/polyfill-util/BinaryNoFuncOverload.php
+END
+BinaryOnFuncOverload.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/symfony/polyfill-util/BinaryOnFuncOverload.php
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/symfony/polyfill-util/composer.json
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/symfony/polyfill-util/LICENSE
+END
+Binary.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/symfony/polyfill-util/Binary.php
+END
+TestListener.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/symfony/polyfill-util/TestListener.php
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/symfony/polyfill-util/README.md
+END

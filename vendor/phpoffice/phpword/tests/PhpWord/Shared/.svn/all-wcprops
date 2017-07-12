@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Shared
+END
+HtmlTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Shared/HtmlTest.php
+END
+ZipArchiveTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Shared/ZipArchiveTest.php
+END
+ConverterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Shared/ConverterTest.php
+END

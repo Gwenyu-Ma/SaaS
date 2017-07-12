@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 116
+file/android/base/*
+file/android/dist/*
+file/linux/base/*
+file/linux/dist/*
+file/windows/base/*
+file/windows/dist/*
+
+END

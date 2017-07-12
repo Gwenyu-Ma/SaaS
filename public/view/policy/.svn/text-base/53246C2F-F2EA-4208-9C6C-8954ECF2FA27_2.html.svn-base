@@ -1,0 +1,283 @@
+<ul class="nav nav-tabs" id="policyTab">
+  <li class="active"><a href="#tab-brower" data-toggle="tab">网址访问</a></li>
+  <li><a href="#tab-net" data-toggle="tab">联网管理</a></li>
+  <li><a href="#tab-flux" data-toggle="tab">流量管理</a></li>
+  <li><a href="#tab-adsl" data-toggle="tab">ADSL共享管理</a></li>
+  <li><a href="#tab-share" data-toggle="tab">共享管理</a></li>
+</ul>
+ 
+<div class="tab-content">
+  <div class="tab-pane in active" id="tab-brower">
+    <dl>
+      <dt>
+        <label>
+          <i id="BrowserAudit_lock" class="lock"></i>网址访问
+        </label>
+      </dt>
+      <dd>
+        <label class="checkbox">
+          <i id="BrowserAudit_lock_MonStatus" class="lock"></i>
+          <input type="checkbox" id="BrowserAudit_MonStatus">开启网址管理
+        </label>
+      </dd>
+      <dd>
+        <!-- <label class="checkbox">
+          <i id="BrowserAudit_lock_LogStatus" class="lock"></i>
+          <input type="checkbox" id="BrowserAudit_LogStatus">记录日志
+        </label> -->
+        <label class="checkbox">
+          <i id="BrowserAudit_lock_LogAllWeb" class="lock"></i>
+          <input type="checkbox" id="BrowserAudit_LogAllWeb">记录所有网址访问
+        </label>
+      </dd>
+      <dd>
+        <dl>
+          <dt>
+            <i id="TimeRule_lock" class="lock"></i>
+            <span>受限规则</span>
+            <button id="add_rules" class="btn btn-success btn-small ml10" >添加</button>
+          </dt>
+          <dd class="browserAuditList">
+            
+          </dd>
+        </dl>
+      </dd>
+    </dl>
+  </div>
+  <div class="tab-pane" id="tab-net">
+    <dl>
+      <dt>
+        <label>
+          <i id="NetProcAudit_lock" class="lock"></i>联网管理
+        </label>
+      </dt>
+      <dd>
+        <label class="checkbox">
+          <i id="NetProcAudit_lock_MonStatus" class="lock"></i>
+          <input type="checkbox" id="NetProcAudit_MonStatus">开启联网管理
+        </label>
+      </dd>
+      <dd>
+        <label class="checkbox">
+          <i id="NetProcAudit_lock_LogStatus" class="lock"></i>
+          <input type="checkbox" id="NetProcAudit_LogStatus">记录日志
+        </label>
+      </dd>
+      <dd>
+        <label class="checkbox">
+          <i id="NetProcAudit_lock_CheckModule" class="lock"></i>
+          <input type="checkbox" id="NetProcAudit_CheckModule">检查驱动模块
+        </label>
+      </dd>
+      <dd>
+        <label class="checkbox">
+          <i id="NetProcAudit_lock_CheckRsSign" class="lock"></i>
+          <input type="checkbox" id="NetProcAudit_CheckRsSign">智能判断程序
+        </label>
+      </dd>
+      <dd>
+        <div>
+          <i id="NetProcAudit_lock_UnknowAction" class="lock"></i>
+          未知程序
+          <label class="radio inline"><input type="radio" value="1" name="NetProcAudit_UnknownAction">允许</label>
+          <label class="radio inline"><input type="radio" value="0" name="NetProcAudit_UnknownAction">拒绝</label>
+          <label class="radio inline"><input type="radio" value="2" name="NetProcAudit_UnknownAction" checked>询问</label>
+        </div>       
+      </dd>
+      <dd>
+        <dl>
+          <dt>
+            <i id="NetProcAudit_lock_TimeRuleList" class="lock"></i>
+            <span>联网管理列表</span>
+            <button id="net_add_rules" class="btn btn-success btn-small ml10" >添加</button>
+          </dt>
+          <dd class="netlist">
+           
+          </dd>
+        </dl>
+      </dd>
+    </dl>
+  </div>
+  <div class="tab-pane" id="tab-flux">
+    <dl>
+      <dt><i id="FluxMgr_lock" class="lock"></i>流量管理</dt>
+      <dd>
+        <label class="checkbox">
+          <i id="FluxMgr_lock_MonStatus" class="lock"></i>
+          <input type="checkbox" id="FluxMgr_MonStatus">开启联网管理
+        </label>
+      </dd>
+      <dd>     
+        <label class="checkbox">
+          <i id="FluxMgr_lock_LogTimer" class="lock"></i>
+          定时报告时间间隔<input type="text" value="" id="FluxMgr_LogTimer" class="input-small" validation="intNum">分钟
+        </label>          
+      </dd>
+    </dl>
+  </div>
+  <div class="tab-pane" id="tab-adsl">
+    <dl>
+      <dt><i id="AdslShare_lock" class="lock"></i>ADSL共享</dt>
+      <dd>
+        <label class="checkbox">
+          <i id="AdslShare_lock_MonStatus" class="lock"></i>
+          <input type="checkbox" id="AdslShare_MonStatus">开启ADSL共享
+        </label>
+      </dd>
+      <dd>    
+        <label class="checkbox">
+          <i id="AdslShare_lock_TotalWidth" class="lock"></i>
+          总宽带<input type="text" value="" id="AdslShare_TotalWidth" class="input-small" validation="intNum">M(兆)
+          <span class="help-inline">注意:必须重置宽带后功能才能生效！</span>
+        </label>          
+      </dd>
+    </dl>
+  </div>
+  <div class="tab-pane" id="tab-share">
+    <dl>
+      <dt><i id="ShareMgr_lock" class="lock"></i>共享设置</dt>
+      <dd>
+        <label class="checkbox">
+          <i id="ShareMgr_lock_FileLogStatus" class="lock"></i>
+          <input type="checkbox" id="ShareMgr_FileLogStatus">记录共享文件
+        </label>
+      </dd>
+      <dd>
+        <label class="checkbox">
+          <i id="ShareMgr_lock_AccessLogStatus" class="lock"></i>
+          <input type="checkbox" id="ShareMgr_AccessLogStatus">记录访问日志
+        </label>        
+      </dd>
+      <dt><i id="DisableDefaultShare_lock" class="lock"></i>关闭默认共享</dt>
+      <dd>
+        <label class="checkbox">
+          <input type="checkbox" id="DisableDefaultShare_status1">关闭默认共享(C$/D$/E$)
+        </label>
+      </dd>
+      <dd>    
+        <label class="checkbox">
+          <input type="checkbox" id="DisableDefaultShare_status2">关闭远程管理(ADMIN$)
+        </label>     
+      </dd>
+      <dd>
+        <dl>
+          <dt><i id="AccessControl_lock" class="lock"></i>共享访问控制规则</dt>
+          <dd>
+            <label class="checkbox">
+              <i id="AccessControl_lock_MonStatus" class="lock"></i>
+              <input type="checkbox" id="AccessControl_MonStatus">开启共享规则
+            </label> 
+          </dd>
+          <dd>           
+            <label class="checkbox">
+              <i id="AccessControl_lock_AlertStatus" class="lock"></i>
+              <input type="checkbox" id="AccessControl_AlertStatus">禁止访问提示用户
+            </label>     
+          </dd>
+          <dd>
+            <i id="AccessControl_lock_ControlCode" class="lock"></i>列表控制
+            <label class="radio inline">
+              <input type="radio" name="AccessControl_ControlCode" value="1" checked>黑名单
+            </label>
+          </dd>
+          <dd> 
+            <label class="radio inline">
+              <input type="radio" name="AccessControl_ControlCode" value="0">白名单
+            </label>     
+          </dd>
+          <dd>
+            <i id="AccessControl_lock_RuleList" class="lock"></i>列表控制
+            <select name="ip_select">
+              <option value="0">IP</option>
+              <option value="1">IP段</option>
+            </select>
+            <input type="text" value="" class="start_ip">
+            <span class="js_ip_select_target hide">~</span>
+            <input type="text" value="" class="end_ip js_ip_select_target hide">
+            <button id="list_add" class="btn btn-success btn-small">添加</button>
+          </dd>
+          <dd>
+            <div class="whiteListBox">
+              <table id="ip_list" class="whiteList">
+              </table>
+            </div>            
+          </dd>
+        </dl>
+      </dd>
+    </dl>
+  </div>
+
+  <!-- ****start****  弹出框  受限规则  自定义软件或服务名-->
+  <div class="modal hide fade js_dialog_net_pro" style="width:600px;">
+    <div class="modal-header">
+      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+      <h3>新增受限规则</h3>
+    </div>
+    <div class="modal-body">
+      <div class="tabbable">
+        <ul class="nav nav-tabs">
+          <li class="active"><a href="#tab1" data-toggle="tab">自定义软件</a></li>
+          <li><a href="#tab2" data-toggle="tab">服务名</a></li>
+        </ul>
+        <div class="tab-content">
+          <div class="tab-pane active" id="tab1">
+            <div class="control-group" >
+              <label class="control-lbael">填写规则：</label>
+              <select name="" id="js_sys_macro">
+                <option value="">不使用系统宏</option>
+                <option value="?:\">?:\</option>
+                <option value="%USERPROFILE%\">%USERPROFILE%\</option>
+                <option value="%HOMEPATH%\">%HOMEPATH%\</option>
+                <option value="%ALLUSERSPROFILE%\">%ALLUSERSPROFILE%\</option>
+                <option value="%APPDATA%\">%APPDATA%\</option>
+                <option value="%SYSTEMDRIVE%\">%SYSTEMDRIVE%\</option>
+                <option value="%HOMEDRIVE%\">%HOMEDRIVE%\</option>
+                <option value="%SYSTEMROOT%\">%SYSTEMROOT%\</option>
+                <option value="%WINDIR%\">%WINDIR%\</option>
+                <option value="%TEMP%\">%TEMP%\</option>
+                <option value="%TMP%\">%TMP%\</option>
+                <option value="%ProgramFiles%\">%ProgramFiles%\</option>
+                <option value="%ProgramFiles%\">%ProgramFiles%\</option>
+                <option value="%CommonProgramFiles%\">%CommonProgramFiles%\</option>
+              </select>
+              <input type="text" value="" id="js_sys_path">
+            </div>
+            <div class="control-group">
+              <p>规则中可以包含系统宏，如：%WINDIR%\rule.exe</p>
+              <table id="commentTable">
+                <tr><th width="160">系统宏</th><th>代表含义</th></tr>
+                <tr><td>?:</td><td>任意驱动器</td></tr>
+                <tr><td>%USERPROFILE%</td><td>C:\Documents and Settings\当前用户名</td></tr>
+                <tr><td>%HOMEPATH%</td><td>C:\Documents and Settings\当前用户名</td></tr>
+                <tr><td>%ALLUSERSPROFILE%</td><td>C:\Documents and Settings\All Users</td></tr>
+                <tr><td>%APPDATA%</td><td>C:\Documents and Settings\当前用户名\Application Data</td></tr>
+                <tr><td>%SYSTEMDRIVE%</td><td>C:</td></tr>
+                <tr><td>%HOMEDRIVE%</td><td>C:</td></tr>
+                <tr><td>%SYSTEMROOT%</td><td>C:\WINDOWS</td></tr>
+                <tr><td>%WINDIR%</td><td>C:\WINDOWS</td></tr>
+                <tr><td>%TEMP% 和 %TMP%</td><td>C:\Documents and Settings\当前用户名\Local Settings\Temp</td></tr>
+                <tr><td>%ProgramFiles%</td><td>C:\Program Files</td></tr>
+                <tr><td>%CommonProgramFiles%</td><td>C:\Program Files\Common Files</td></tr>
+              </table>
+            </div>
+          </div>
+          <div class="tab-pane" id="tab2">
+            <div class="control-group" >
+              <label class="control-lbael">填写规则：</label>
+              <input type="text" class="input-xlarge" id="js_server_name" value="">
+            </div>
+            <div class="control-group" >
+              <p class="">注意服务名不是服务的显示名称，如：Asp.Net State Service 请填写:aspnet_state</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="modal-footer">
+      <a href="javascript:;" class="btn js_cancel">取消</a>
+      <a href="javascript:;" class="btn btn-primary js_sure">确定</a>
+    </div>
+  </div>
+  <!-- ****end****  弹出框  受限规则  自定义软件或服务名-->  
+  
+</div>

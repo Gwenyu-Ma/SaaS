@@ -1,0 +1,22 @@
+{
+    "name": "guodf/datetime",
+    "keywords":["datetime","date","time"],
+    "description": "DateTime class library",
+    "license":"MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "guodf",
+            "email": "guo_net_win@live.com",
+            "homepage": "https://github.com/guodf"
+        }
+    ],
+    "require": {
+        "php": ">=5.6.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "System\\": "src/"
+        }
+    }
+}

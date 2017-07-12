@@ -1,0 +1,51 @@
+<div class="content-header">
+  <h1>病毒扫描事件日志</h1>
+</div>
+<div class="content-body log-panel">
+  <div class="form-inline bar-search">
+    <div class="item-search">
+      <label>时间范围</label>
+      <select id="selTime">
+        <option value="0" selected>本周</option>
+        <option value="1">上周</option>
+        <option value="2">本月</option>
+        <option value="3">上月</option>
+        <option value="4">指定范围</option>
+      </select>
+      <div id="panelDate" class="item" style="display:none">
+        <label>从</label>
+        <input id="date_timepicker_start" type="text" value="">
+        <label>到</label>
+        <input id="date_timepicker_end" type="text" value="">
+      </div>
+    </div>
+    <div class="item-search">
+      <label>扫描类型</label>
+      <select id="selScanType">
+        <option value="-1">全部</option>
+      </select>
+    </div>
+    <div class="item-search">
+      <label>状态</label>
+      <select id="selScanStatus">
+        <option value="-1">全部</option>
+      </select>
+    </div>
+    <div class="item-search">
+      <label>客户端</label>
+      <input id="txtClient" type="text" value="">
+    </div>
+    <div class="item-search">
+      <label>分组</label>
+      <select id="selGroup"></select>
+    </div>
+    <button id="btnSearch" class="btn btn-primary btn-small"> <i class="icon-search icon-white"></i></button>
+  </div>
+  <div class="container-fluid">
+    <div class="row-fluid">
+      <div class="span12">
+        <table id="tb-vScanLog"></table>
+      </div>
+    </div>
+  </div>
+</div>

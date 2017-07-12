@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/esm/!svn/ver/29741/soho/code/web/mgr/models
+END
+Group.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/esm/!svn/ver/28712/soho/code/web/mgr/models/Group.php
+END
+Client.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/esm/!svn/ver/29660/soho/code/web/mgr/models/Client.php
+END
+Downloader.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/esm/!svn/ver/28370/soho/code/web/mgr/models/Downloader.php
+END
+Xav.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/esm/!svn/ver/28472/soho/code/web/mgr/models/Xav.php
+END
+Enterprise.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/esm/!svn/ver/29741/soho/code/web/mgr/models/Enterprise.php
+END
+Users.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/esm/!svn/ver/28461/soho/code/web/mgr/models/Users.php
+END
+Messager.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/esm/!svn/ver/28071/soho/code/web/mgr/models/Messager.php
+END
+Home.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/esm/!svn/ver/28489/soho/code/web/mgr/models/Home.php
+END

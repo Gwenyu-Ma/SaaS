@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/jeremeamia/SuperClosure/src/Analyzer/Visitor
+END
+MagicConstantVisitor.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/jeremeamia/SuperClosure/src/Analyzer/Visitor/MagicConstantVisitor.php
+END
+ClosureLocatorVisitor.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/jeremeamia/SuperClosure/src/Analyzer/Visitor/ClosureLocatorVisitor.php
+END
+ThisDetectorVisitor.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/jeremeamia/SuperClosure/src/Analyzer/Visitor/ThisDetectorVisitor.php
+END

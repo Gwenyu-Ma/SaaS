@@ -1,0 +1,79 @@
+<div class="content-header">
+  <h1>策略设置Test</h1>
+</div>
+<div class="content-body">
+  <div class="content-side-menu-scroll">
+    <ul class="content-side-menu">
+      <li><a href="#"><i class="arrow"></i>升级中心</a>
+        <ul>
+          <li><a href="#manage/policyTest/zdsj">终端升级</a></li>
+          <li><a href="#">中心升级</a></li>
+        </ul>
+      </li>
+      <li><a href="#"><i class="arrow"></i>防护病毒</a>
+        <ul>
+          <li><a href="#">病毒查询</a></li>
+          <li><a href="#">P2P扫描</a></li>
+        </ul>
+      </li>
+      <li><a href="#"><i class="arrow"></i>漏洞扫描</a>
+        <ul>
+          <li><a href="#">扫描修复</a></li>
+        </ul>
+      </li>
+      <li><a href="#"><i class="arrow"></i>资产管理</a>
+        <ul>
+          <li><a href="#">软件硬件</a></li>
+          <li><a href="#">软件关注</a></li>
+          <li><a href="#">软件部署</a></li>
+          <li><a href="#">U盘助手</a></li>
+        </ul>
+      </li>
+      <li><a href="#"><i class="arrow"></i>行为审计</a>
+        <ul>
+          <li><a href="#">审计管理</a></li>
+          <li><a href="#">U盘准入</a></li>
+          <li><a href="#">U盘备注</a></li>
+          <li><a href="#">IP规则</a></li>
+        </ul>
+      </li>
+      <li><a href="#"><i class="arrow"></i>网络安全</a>
+        <ul>
+          <li><a href="#">安全管理</a></li>
+        </ul>
+      </li>
+      <li><a href="#"><i class="arrow"></i>信息内容</a>
+        <ul>
+          <li><a href="#">审计内容</a></li>
+        </ul>
+      </li>
+      <li><a href="#"><i class="arrow"></i>XP盾</a>
+        <ul>
+          <li><a href="#">漏洞防御</a></li>
+        </ul>
+      </li>
+      <li><a href="#"><i class="arrow"></i>系统平台</a>
+        <ul>
+          <li><a href="#">终端设置</a></li>
+          <li><a href="#">自动入组</a></li>
+          <li><a href="#">未知扫描</a></li>
+          <li><a href="#">控制台</a></li>
+          <li><a href="#">级联同步</a></li>
+          <li><a href="#">负载均衡</a></li>
+          <li><a href="#">中心配置</a></li>
+          <li><a href="#">补丁管理</a></li>
+          <li><a href="#">邮件服务</a></li>
+        </ul>
+      </li>
+      <li><a href="#"><i class="arrow"></i>数据中心</a>
+        <ul>
+          <li><a href="#">数据库连接</a></li>
+          <li><a href="#">日志保留</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+  <div id="c-manage-policyTest" style="padding-left:200px;">
+    xxxxx
+  </div>
+</div>

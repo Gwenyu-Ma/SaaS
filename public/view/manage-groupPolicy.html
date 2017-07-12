@@ -1,0 +1,18 @@
+<div class="content-header">
+  <h1>组策略设置</h1>
+</div>
+<div class="content-body">
+  <div class="container-fluid">
+    <div class="row-fluid">
+      <div class="span12">
+        <div id="custom-toolbar" class="form-inline">
+          <b>当前组: {{groupName}}</b>
+          {{#group}}
+          <a id="btnAddGroupPolicy" href="#manage/policy?{{groupId}}" class="btn btn-primary">添加组策略</a>
+          {{/group}}
+        </div>
+        <table id="tbGroupPolicy" data-toolbar-align="left" data-toolbar="#custom-toolbar"></table>
+      </div>
+    </div>
+  </div>
+</div>

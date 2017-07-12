@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phenx/php-font-lib/src/FontLib/Glyph
+END
+OutlineSimple.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phenx/php-font-lib/src/FontLib/Glyph/OutlineSimple.php
+END
+Outline.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phenx/php-font-lib/src/FontLib/Glyph/Outline.php
+END
+OutlineComponent.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phenx/php-font-lib/src/FontLib/Glyph/OutlineComponent.php
+END
+OutlineComposite.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phenx/php-font-lib/src/FontLib/Glyph/OutlineComposite.php
+END

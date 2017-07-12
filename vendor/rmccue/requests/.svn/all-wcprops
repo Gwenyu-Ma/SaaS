@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/esm/!svn/ver/25128/soho/code/web/vendor/rmccue/requests
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/esm/!svn/ver/25128/soho/code/web/vendor/rmccue/requests/composer.json
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/esm/!svn/ver/25128/soho/code/web/vendor/rmccue/requests/LICENSE
+END
+.travis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/esm/!svn/ver/25128/soho/code/web/vendor/rmccue/requests/.travis.yml
+END
+CHANGELOG.md
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/esm/!svn/ver/25128/soho/code/web/vendor/rmccue/requests/CHANGELOG.md
+END
+.coveralls.yml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/esm/!svn/ver/25128/soho/code/web/vendor/rmccue/requests/.coveralls.yml
+END
+package.xml.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/esm/!svn/ver/25128/soho/code/web/vendor/rmccue/requests/package.xml.tpl
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/esm/!svn/ver/25128/soho/code/web/vendor/rmccue/requests/README.md
+END

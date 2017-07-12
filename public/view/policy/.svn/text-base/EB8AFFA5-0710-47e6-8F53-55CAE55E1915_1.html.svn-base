@@ -1,0 +1,23 @@
+<div class="tab-content" style="overflow:visible;">
+  <div class="tab-pane in active" id="tab-pub">
+    <button type="button" class="btn btn-success btn-samll" id="autoGroup_addRule">添加</button>
+    <button type="button" class="btn btn-info " id="autoGroup_reAuto">重新入组</button>
+    <ul class="unstyled autoGroupUL">
+    </ul>
+    <p class="js_no_data">现在没有策略</p>
+  </div>
+</div>
+<!-- Modal -->
+<div id="autoGroup_modal" class="modal hide fade" tabindex="-1" aria-hidden="true">
+  <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+    <h3>选择组</h3>
+  </div>
+  <div class="modal-body">
+      <ul id="autoGroup_list" class="unstyled" ></ul>
+  </div>
+  <div class="modal-footer">
+    <button class="btn" data-dismiss="modal" aria-hidden="true">取消</button>
+    <button id="autoGroup_chioce" class="btn btn-primary">选择</button>
+  </div>
+</div>

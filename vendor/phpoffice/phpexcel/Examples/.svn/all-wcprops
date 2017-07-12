@@ -1,0 +1,545 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples
+END
+12cellProtection.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/12cellProtection.php
+END
+runall.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/runall.php
+END
+06largescale-with-cellcaching-sqlite3.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/06largescale-with-cellcaching-sqlite3.php
+END
+OOCalcTest.ods
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/OOCalcTest.ods
+END
+26utf8.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/26utf8.php
+END
+33chartcreate-scatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/33chartcreate-scatter.php
+END
+42richText.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/42richText.php
+END
+33chartcreate-area.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/33chartcreate-area.php
+END
+28iterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/28iterator.php
+END
+31docproperties_write-xls.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/31docproperties_write-xls.php
+END
+SylkReader.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/SylkReader.php
+END
+OOCalcReaderPCLZip.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/OOCalcReaderPCLZip.php
+END
+01pharSimple.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/01pharSimple.php
+END
+05featuredemo.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/05featuredemo.php
+END
+02types.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/02types.php
+END
+38cloneWorksheet.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/38cloneWorksheet.php
+END
+25inmemoryimage.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/25inmemoryimage.php
+END
+07reader.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/07reader.php
+END
+34chartupdate.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/34chartupdate.php
+END
+36chartreadwritePDF.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/36chartreadwritePDF.php
+END
+17html.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/17html.php
+END
+01simplePCLZip.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/01simplePCLZip.php
+END
+06largescale-xls.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/06largescale-xls.php
+END
+09pagebreaks.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/09pagebreaks.php
+END
+37page_layout_view.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/37page_layout_view.php
+END
+33chartcreate-line.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/33chartcreate-line.php
+END
+33chartcreate-radar.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/33chartcreate-radar.php
+END
+01simple-download-ods.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/01simple-download-ods.php
+END
+XMLReader.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/XMLReader.php
+END
+01simple.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/01simple.php
+END
+33chartcreate-composite.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/33chartcreate-composite.php
+END
+33chartcreate-bar.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/33chartcreate-bar.php
+END
+04printing.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/04printing.php
+END
+31docproperties_write.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/31docproperties_write.php
+END
+29advancedvaluebinder.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/29advancedvaluebinder.php
+END
+13calculation.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/13calculation.php
+END
+33chartcreate-pie.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/33chartcreate-pie.php
+END
+06largescale.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/06largescale.php
+END
+XMLTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/XMLTest.xml
+END
+Excel2003XMLReader.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/Excel2003XMLReader.php
+END
+35chartrender.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/35chartrender.php
+END
+11documentsecurity-xls.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/11documentsecurity-xls.php
+END
+21pdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/21pdf.php
+END
+05featuredemo.inc.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/05featuredemo.inc.php
+END
+SylkTest.slk
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/SylkTest.slk
+END
+33chartcreate-column-2.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/33chartcreate-column-2.php
+END
+14excel5.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/14excel5.php
+END
+GnumericTest.gnumeric
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/GnumericTest.gnumeric
+END
+07readerPCLZip.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/07readerPCLZip.php
+END
+03formulas.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/03formulas.php
+END
+GnumericReader.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/GnumericReader.php
+END
+15datavalidation-xls.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/15datavalidation-xls.php
+END
+Excel2003XMLTest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/Excel2003XMLTest.xml
+END
+40duplicateStyle.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/40duplicateStyle.php
+END
+16csv.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/16csv.php
+END
+36chartreadwriteHTML.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/36chartreadwriteHTML.php
+END
+01simple-download-pdf.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/01simple-download-pdf.php
+END
+41password.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/41password.php
+END
+11documentsecurity.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/11documentsecurity.php
+END
+33chartcreate-bar-stacked.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/33chartcreate-bar-stacked.php
+END
+06largescale-with-cellcaching.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/06largescale-with-cellcaching.php
+END
+22heavilyformatted.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/22heavilyformatted.php
+END
+33chartcreate-stock.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/33chartcreate-stock.php
+END
+20readexcel5.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/20readexcel5.php
+END
+OOCalcReader.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/OOCalcReader.php
+END
+Quadratic.xlsx
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/Quadratic.xlsx
+END
+15datavalidation.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/15datavalidation.php
+END
+01simple-download-xlsx.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/01simple-download-xlsx.php
+END
+Quadratic2.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/Quadratic2.php
+END
+10autofilter-selection-1.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/10autofilter-selection-1.php
+END
+10autofilter-selection-2.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/10autofilter-selection-2.php
+END
+01simple-download-xls.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/01simple-download-xls.php
+END
+10autofilter-selection-display.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/10autofilter-selection-display.php
+END
+33chartcreate-multiple-charts.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/33chartcreate-multiple-charts.php
+END
+08conditionalformatting.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/08conditionalformatting.php
+END
+39dropdown.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/39dropdown.php
+END
+06largescale-with-cellcaching-sqlite.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/06largescale-with-cellcaching-sqlite.php
+END
+02types-xls.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/02types-xls.php
+END
+19namedrange.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/19namedrange.php
+END
+32chartreadwrite.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/32chartreadwrite.php
+END
+Quadratic.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/Quadratic.php
+END
+30template.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/30template.php
+END
+23sharedstyles.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/23sharedstyles.php
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/.gitignore
+END
+10autofilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/10autofilter.php
+END
+27imagesexcel5.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/27imagesexcel5.php
+END
+33chartcreate-column.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/33chartcreate-column.php
+END
+24readfilter.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/24readfilter.php
+END
+18extendedcalculation.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/18extendedcalculation.php
+END
+08conditionalformatting2.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Examples/08conditionalformatting2.php
+END

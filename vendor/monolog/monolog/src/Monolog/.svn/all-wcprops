@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/esm/!svn/ver/25128/soho/code/web/vendor/monolog/monolog/src/Monolog
+END
+Logger.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/esm/!svn/ver/24136/soho/code/web/vendor/monolog/monolog/src/Monolog/Logger.php
+END
+ErrorHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/esm/!svn/ver/24136/soho/code/web/vendor/monolog/monolog/src/Monolog/ErrorHandler.php
+END
+Registry.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/esm/!svn/ver/24136/soho/code/web/vendor/monolog/monolog/src/Monolog/Registry.php
+END

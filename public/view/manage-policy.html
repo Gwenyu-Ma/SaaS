@@ -1,0 +1,69 @@
+<div class="content-header">
+  <h1>
+    {{#group}}添加组策略{{/group}}
+    {{#client}}添加终端策略{{/client}}
+  </h1>
+</div>
+<div class="content-body">
+  <div class="container-fluid policy-form">
+    <div class="toolbar">
+      <button id="btnSavePolicy" class="btn btn-primary" data-loading-text="保存中...">保存</button>
+      <button id="btnReturn" class="btn">返回</button>
+    </div>
+    {{^global}}
+    <div class="form-horizontal well">
+      <div class="control-group">
+        {{#group}}
+        <label class="control-label">目标组：</label>
+        <div class="controls">
+          <select id="selGroup">
+            <!--<option value="1">01组</option>
+            <option value="2">02组</option>
+            <option value="3">03组</option>-->
+          </select>
+        </div>
+        {{/group}}
+        {{#client}}
+        <label class="control-label">目标终端：</label>
+        <div class="controls">
+          <select id="selClient">
+          </select>
+        </div>
+        {{/client}}
+      </div>
+      <div class="control-group">
+        <label class="control-label">对应产品：</label>
+        <div class="controls">
+          <select id="selPolicy">
+            <!--<option value="-1">选择产品</option>
+            <option value="001" selected>防病毒(XAV) - 默认策略</option>
+            <option value="002">防病毒(XAV) - P2P扫描</option>
+            <option value="003">防病毒(XAV) - 默认策略 - test</option>-->
+          </select>
+        </div>
+      </div>
+      <div class="control-group">
+        <label class="control-label">描述信息：</label>
+        <div class="controls">
+          <input id="txtDesp" type="text">
+        </div>
+      </div>
+      <!--<div class="control-group">
+        <label class="control-label" style="color:red;">生成的JSON：</label>
+        <div class="controls">
+          <textarea style="width:100%;border-color:red;" id="txtJSONTest" cols="30" rows="10"></textarea>
+        </div>
+      </div>-->
+      <div class="control-group">
+        <label class="control-label">策略内容：</label>
+        <div class="controls" style="margin-bottom: 0;">
+          <div id="policyContent" class="well well-small"></div>
+        </div>
+      </div>
+    </div>
+    {{/global}}
+    {{#global}}
+    <div id="policyContent" class="well well-small"></div>
+    {{/global}}   
+  </div>
+</div>

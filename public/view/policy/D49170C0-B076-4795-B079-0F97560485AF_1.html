@@ -1,0 +1,816 @@
+<ul class="nav nav-tabs" id="policyTab">
+  <li class="active"><a href="#tab-pub" data-toggle="tab">公共设置</a></li>
+  <li><a href="#tab-scan" data-toggle="tab">扫描设置</a></li> 
+  <li><a href="#tab-file" data-toggle="tab">文件监控</a></li>
+  <li><a href="#tab-mail" data-toggle="tab">邮件监控</a></li>
+  <li><a href="#tab-udisk" data-toggle="tab">U盘监控</a></li>
+  <li><a href="#tab-app" data-toggle="tab">应用加固设置</a></li>
+  <li><a href="#tab-sys" data-toggle="tab">系统加固设置</a></li>
+</ul>
+ 
+<div class="tab-content">
+  <div class="tab-pane in active" id="tab-pub">
+    <dl>
+      <dt>白名单、排除列表</dt>
+      <dd>
+        <input id="pub_txtFile" type="text">
+        <select id="pub_selFileType">
+          <option value="0">文件</option>
+          <option value="1">仅本目录</option>
+          <option value="2">本目录+子目录</option>
+          <option value="3">仅子目录</option>
+        </select>
+        <button id="pub_btnAddWhiteList" class="btn btn-success btn-small">添加</button>
+      </dd>
+      <dd>
+        <div class="whiteListBox">
+          <table id="pub_tbWhiteList" class="whiteList">
+          </table>
+        </div>
+      </dd>
+      <dt>扩展名（以;分隔，例如：.zip;.com;.txt）</dt>
+      <dd>
+        <input id="pub_txtExt" type="text">
+      </dd>
+      <dt>云查杀相关设置</dt>
+      <dd>
+        CPU占用率百分比
+        <select id="cpuradio">
+          <option value="5">5%</option>
+          <option value="10">10%</option>
+          <option value="20">20%</option>
+          <option value="30">30%</option>
+          <option value="40">40%</option>
+          <option value="50">50%</option>
+          <option value="60">60%</option>
+          <option value="70">70%</option>
+          <option value="80">80%</option>
+          <option value="90">90%</option>
+          <option value="100">100%</option>
+        </select>
+      </dd>
+      <dd>
+        云连接测试时间间隔
+        <select id="connrate">
+          <option value="60">1分钟</option>
+          <option value="120">2分钟</option>
+          <option value="180">3分钟</option>
+          <option value="240">4分钟</option>
+          <option value="300">5分钟</option>
+        </select><br />
+      </dd>
+      <dd>
+        <dl class="js_cloud">
+          <dt><i class="lock" id="publicCloudLock">&nbsp;</i><label class="checkbox inline"><input type="checkbox" id="publicCloudEnable" checked="checked" />启用公有云</label></dt> 
+          <dd>服务器地址或IP： rscloud.rising.net.cn</dd>
+          <dd>服务器端口：80</dd>
+          <dd>请求模式：<label class="radio inline"><input type="radio" value="0" name="publicCloudMode" />GET</label> <label class="radio inline"><input type="radio" value="1" name="publicCloudMode" checked="checked" />POST</label></dd>
+          <dd>一批次最多请求查询数量：<input type="text" id="publicCloudCount" value="0" validation="intNum"/>（填0代表不限制）</dd>
+          <dd>服务器友好名称：<input type="text" id="publicCloudName" /></dd>
+        </dl>
+      </dd>      
+      <dd id="privateCloudTmpl" style="display:none">
+        <dl class="js_cloud">
+          <dt><i class="lock privateCloudLock">&nbsp;</i><label class="checkbox inline"><input type="checkbox" class="privateCloudEnable" checked="checked" />启用私有云</label> <a href="javascript:;" class="js_delcloud">删除</a></dt> 
+          <dd>服务器地址或IP： <input type="text" class="privateCloudAddr"  validation="ip"/></dd>
+          <dd>服务器端口：<input type="text" class="privateCloudPort" value="80" validation="intNum"/></dd>
+          <dd>请求模式：<label class="radio inline"><input type="radio" value="0" name="privateCloudMode" />GET</label> <label class="radio inline"><input type="radio" value="1" name="privateCloudMode" checked="checked" />POST</label></dd>
+          <dd>一批次最多请求查询数量：<input type="text" class="privateCloudCount" value="0" validation="intNum"/>（填0代表不限制）</dd>
+          <dd>服务器友好名称：<input type="text" class="privateCloudName" /></dd>
+        </dl>
+      </dd>
+      <dd><a href="javascript:;" class="js_addcloud"><i class="fa fa-plus"></i>添加私有云</a></dd>
+      <dt>隔离区</dt>
+      <dd>
+        <label class="checkbox">
+          <i id="pub_lockNobackup" class="lock"></i>
+          <input id="pub_chkNobackup" type="checkbox" checked>杀毒时备份原文件
+        </label>
+      </dd>
+      <dd>
+        <dl>
+          <dt><i id="pub_lockNospace" class="lock"></i>空间不足的处理方式：</dt>
+          <dd>
+            <label class="radio">
+              <input name="pub_radNospace" type="radio" value="0" checked>自动覆盖老文件
+            </label>
+          </dd>
+          <dd>
+            <label class="radio">
+              <input name="pub_radNospace" type="radio" value="1">空间自动增长
+            </label>
+          </dd>
+        </dl>
+      </dd>
+      <dd>
+        <dl>
+          <dt><i id="pub_lockStorefailed" class="lock"></i>隔离失败时的处理方式：</dt>
+          <dd>
+            <label class="radio">
+              <input name="pub_radStorefailed" type="radio" value="0" checked>询问用户
+            </label>
+          </dd>
+          <dd>
+            <label class="radio">
+              <input name="pub_radStorefailed" type="radio" value="1">删除文件(不隔离)
+            </label>
+          </dd>
+          <dd>
+            <label class="radio">
+              <input name="pub_radStorefailed" type="radio" value="2">不处理
+            </label>
+          </dd>
+        </dl>
+      </dd>
+      <dd>
+        <dl>
+          <dt><i id="pub_lockBigfile" class="lock"></i>大文件（超过100M）处理方式：</dt>
+          <dd>
+            <label class="radio">
+              <input name="pub_radBigfile" type="radio" value="0" checked>询问用户
+            </label>
+          </dd>
+          <dd>
+            <label class="radio">
+              <input name="pub_radBigfile" type="radio" value="1">删除文件(不隔离)
+            </label>
+          </dd>
+          <dd>
+            <label class="radio">
+              <input name="pub_radBigfile" type="radio" value="2">不处理
+            </label>
+          </dd>
+        </dl>
+      </dd>
+      <dt>
+        <label class="checkbox">
+          <i id="pub_lockVtrack" class="lock"></i>
+          <input id="pub_chkVtrack" type="checkbox" checked>启用病毒跟踪功能
+        </label>
+      </dt>
+      <!--<dt>
+        <label class="checkbox">
+          <i id="pub_lockUdiskmon" class="lock"></i>
+          <input id="pub_chkUdiskmon" type="checkbox" checked>启用U盘监控
+        </label>
+      </dt>-->
+      <dt>
+        <label class="checkbox">
+          <i id="pub_lockMemlib" class="lock"></i>
+          <input id="pub_chkMemlib" type="checkbox">启用内存模式病毒库
+        </label>
+      </dt>
+      <!--
+      <dt>
+        <label class="checkbox">
+          <i id="pub_lockTrolib" class="lock"></i>
+          <input id="pub_chkTrolib" type="checkbox" checked>加载木马库
+        </label>
+      </dt>
+      -->
+      <dt>
+        <label class="checkbox">
+          <i id="pub_lockWritelog" class="lock"></i>
+          <input id="pub_chkWritelog" type="checkbox" checked>记录病毒日志
+        </label>
+      </dt>
+      <dt>
+        <i id="pub_lockSmartcpuLevel" class="lock"></i>设定扫描模式：
+        <label class="radio inline">
+          <input name="pub_radSmartcpuLevel" type="radio" value="10">办公模式
+        </label>
+        <label class="radio inline">
+          <input name="pub_radSmartcpuLevel" type="radio" value="200" checked>自动模式
+        </label>
+        <label class="radio inline">
+          <input name="pub_radSmartcpuLevel" type="radio" value="100">高速模式
+        </label>
+      </dt>
+      <dt>专项查杀</dt>
+      <dd>
+        <label class="checkbox">
+          <i id="pub_lockWorm08067" class="lock"></i>
+          <input id="pub_worm08067" type="checkbox">飞客虫蠕虫(08067) 
+        </label>
+      </dd>
+      <dd>
+        <label class="checkbox">
+          <i id="pub_lockYunyu" class="lock"></i>
+          <input id="pub_yunyu" type="checkbox">雨云病毒
+        </label>
+      </dd>
+      <dd>
+        <label class="checkbox">
+          <i id="pub_lockVirut" class="lock"></i>
+          <input id="pub_virut" type="checkbox">威客虫（virut）病毒免疫
+        </label>
+      </dd>
+      <dd>
+        <label class="checkbox">
+          <i id="pub_lockLpktool" class="lock"></i>
+          <input id="pub_lpktool" type="checkbox">DLL劫持免疫
+        </label>
+      </dd>
+      <dt>扫描缓存</dt>
+      <dd>
+        <label class="checkbox">
+          <i id="pub_lockCloserfm" class="lock"></i>
+          <input id="pub_closerfm" type="checkbox">二次扫描加速
+        </label>
+      </dd>
+      <dt>
+        <label class="checkbox">
+          <i id="pub_lockInnerWhiteList" class="lock"></i>
+          <input id="pub_InnerWhiteList" type="checkbox">App百名单
+        </label>
+      </dt>
+    </dl>
+  </div>
+  <div class="tab-pane" id="tab-scan">
+    <dl>
+      <dt>
+        <label class="checkbox">
+          <input type="checkbox" id="scan_chkAllscanEnable" >启动定时全盘扫描
+        </label>
+      </dt>
+      <dd>
+        <dl>
+          <dt>时间设置：</dt>
+          <dd>
+            <label class="radio">
+              <input type="radio" value="2" name="scan_radAllscanTime" disabled>开机
+            </label>
+          </dd>
+          <dd>
+            <label class="radio inline">
+              <input type="radio" value="6" name="scan_radAllscanTime" checked disabled>每天 
+            </label>
+            <input style="width:5em" type="text" id="scan_txtAllscanEveryDay" value="9:00" disabled class="js_time">(例19:00)
+          </dd>
+          <dd>
+            <label  class="radio inline">
+              <input type="radio" value="5" name="scan_radAllscanTime"  disabled>每周</label> 
+            <label class="checkbox inline">
+              <input type="checkbox" value="2" name="scan_chkAllscanEveryWeek" disabled>周一</label><label  class="checkbox inline">
+              <input type="checkbox" value="4" name="scan_chkAllscanEveryWeek" disabled>周二</label>
+            <label  class="checkbox inline">
+              <input type="checkbox" value="8" name="scan_chkAllscanEveryWeek" disabled>周三</label>
+            <label  class="checkbox inline">
+              <input type="checkbox" value="16" name="scan_chkAllscanEveryWeek" disabled>周四</label>
+            <label  class="checkbox inline">
+              <input type="checkbox" value="32" name="scan_chkAllscanEveryWeek" disabled>周五</label>
+            <label  class="checkbox inline">
+              <input type="checkbox" value="64" name="scan_chkAllscanEveryWeek" disabled>周六</label>
+            <label  class="checkbox inline">
+              <input type="checkbox" value="1" name="scan_chkAllscanEveryWeek" disabled>周日</label>
+          </dd>
+          <dd style="margin-left:75px;">
+            <input style="width:5em" type="text" id="scan_txtAllscanEveryWeek" value="15:00" disabled  class="js_time"> (例19:00)
+          </dd>
+        </dl>
+      </dd>
+      <dt>
+        <label class="checkbox">
+          <input type="checkbox" id="scan_chkQuickscanEnable" >启动定时快速扫描
+        </label>
+      </dt>
+      <dd>
+        <dl>
+          <dt>时间设置：</dt>
+          <dd>
+            <label class="radio">
+              <input type="radio" value="2" name="scan_radQuickscanTime" disabled>开机</label>
+          </dd>
+          <dd>
+            <label class="radio inline">
+              <input type="radio" value="6" name="scan_radQuickscanTime" checked disabled>每天
+            </label>
+            <input style="width:5em" type="text" id="scan_txtQuickscanEveryDay" value="12:00"  class="js_time" disabled>(例19:00)
+          </dd>
+          <dd>
+            <label class="radio inline">
+              <input type="radio" value="5" name="scan_radQuickscanTime" disabled>每周</label>
+            <label class="checkbox inline">
+              <input type="checkbox" value="2" name="scan_chkQuickscanEveryWeek" disabled>周一</label>
+            <label class="checkbox inline">
+              <input type="checkbox" value="4" name="scan_chkQuickscanEveryWeek" disabled>周二</label>
+            <label class="checkbox inline">
+              <input type="checkbox" value="8" name="scan_chkQuickscanEveryWeek" disabled>周三</label>
+            <label class="checkbox inline">
+              <input type="checkbox" value="16" name="scan_chkQuickscanEveryWeek" disabled>周四</label>
+            <label class="checkbox inline">
+              <input type="checkbox" value="32" name="scan_chkQuickscanEveryWeek" disabled>周五</label>
+            <label class="checkbox inline">
+              <input type="checkbox" value="64" name="scan_chkQuickscanEveryWeek" disabled>周六</label>
+            <label class="checkbox inline">
+              <input type="checkbox" value="1" name="scan_chkQuickscanEveryWeek" disabled>周日</label>
+          </dd>
+          <dd style="margin-left:75px;">
+            <input style="width:5em" type="text" id="scan_txtQuickscanEveryWeek" value="9:00"  class="js_time" disabled> (例19:00)
+          </dd>
+        </dl>
+      </dd>
+      <dt>
+        <i id="scan_lockFiletype" class="lock"></i>扫描文件类型：
+      </dt>
+      <dd>
+        <label class="radio">
+          <input type="radio" value="0" name="scan_radFiletype" checked>所有
+        </label>
+      </dd>
+      <dd>
+        <label class="radio">
+          <input type="radio" value="3" name="scan_radFiletype">程序及文档
+        </label>
+      </dd>
+      <dt>普通扫描引擎</dt>
+      <dd>
+        <label class="checkbox">
+          <i id="scan_lockHeuristic" class="lock"></i>
+          <input id="scan_chkHeuristic" type="checkbox" checked>启发式扫描
+        </label>
+      </dd>
+      <dd>
+        <label class="checkbox">
+          <i id="scan_lockPopvirus" class="lock"></i>
+          <input id="scan_chkPopvirus" type="checkbox" checked>仅扫描流行病毒
+        </label>
+      </dd>
+      <dd>
+        <label class="checkbox">
+          <i id="scan_lockScanzip" class="lock"></i>
+          <input id="scan_chkScanzip" type="checkbox" checked>启用压缩包扫描
+        </label>
+        <label>
+          <i id="scan_lockFilesize" class="lock"></i>查杀不大于
+          <input id="scan_txtFilesize" type="text" value="100" validation="intNum">M的压缩包
+        </label>
+      </dd>
+      <dt>
+        <label class="checkbox">
+          <i id="scan_lockCloudScan" class="lock"></i>
+          <input id="scan_chkCloudScan" type="checkbox" checked>启用云扫描引擎
+        </label>
+      </dt>
+      <dt>
+        <i id="scan_lockfindvirus" class="lock"></i>发现病毒处理方式：
+      </dt>
+      <dd>
+        <label class="radio">
+          <input type="radio" value="0" name="scan_radFindvirus" checked>自动处理
+        </label>
+      </dd>
+      <dd>
+        <label class="radio">
+          <input type="radio" value="1" name="scan_radFindvirus">手动处理
+        </label>
+      </dd>
+      <dt>锁定管理员扫描任务：</dt>
+      <dd>
+        <label class="radio">
+          <input type="radio" value="0" name="scan_radAdminscanoper" checked>不锁定
+        </label>
+      </dd>
+      <dd>
+        <label class="radio">
+          <input type="radio" value="1" name="scan_radAdminscanoper">禁止停止
+        </label>
+      </dd>
+      <dd>
+        <label class="radio">
+          <input type="radio" value="2" name="scan_radAdminscanoper">禁止暂停、停止
+        </label>
+      </dd>
+    </dl>
+  </div>
+  <div class="tab-pane" id="tab-udisk">
+    <dl>
+      <dt>
+        <label class="checkbox">
+          <input id="pub_chkUdiskmon" type="checkbox" checked>启用U盘监控
+        </label>
+      </dt>
+      <dt>
+        <label class="checkbox">          
+          扫描递归深度
+          <input type="text" value="2" class="input-mini" id="pub_udiskmonLevel" validation="intNum">
+          层
+        </label>
+      </dt>
+    </dl>
+  </div>
+  <div class="tab-pane" id="tab-file">
+    <dl>
+      <dt>
+        <label class="checkbox">
+          <input type="checkbox" id="file_chkRundisable">开机是否默认不开启
+        </label>
+      </dt>
+      <dt>
+        <label class="checkbox">
+          <input type="checkbox" id="file_chkLockclose" checked>锁定不允许客户端关闭监控
+        </label>
+      </dt>
+      <dt>
+        <label class="checkbox">
+          <i id="file_lockMonmode" class="lock"></i>
+          <input id="file_chkMonmode" type="checkbox" checked>启用智能监控
+        </label>
+      </dt>
+      <dt>
+        <label class="checkbox">
+          <i id="file_lockCore" class="lock"></i>
+          <input id="file_chkCoreMonitor" type="checkbox">启用内核监控
+        </label>
+      </dt>
+      <dt>
+        <label class="checkbox">
+          <i id="file_lockReportresult" class="lock"></i>
+          <input id="file_chkReportresult" type="checkbox" checked>通知处理结果
+        </label>
+      </dt>
+      <dt>
+        <label class="checkbox">
+          <i id="file_lockFiletype2" class="lock"></i>扫描文件类型：
+        </label>
+      </dt>
+      <dd>
+        <label class="radio">
+          <input name="file_radFiletype2" type="radio" value="0">所有
+        </label>
+      </dd>
+      <dd>
+        <label class="radio">
+          <input name="file_radFiletype2" type="radio" value="3" checked>程序及文档
+        </label>
+      </dd>
+      <dt>
+        <label class="checkbox">
+          <i id="lockSigsource" class="lock"></i>
+          <input id="sigsource" type="checkbox" checked>信任程序分析
+        </label>
+      </dt>
+      <dt>
+        <label class="checkbox">
+          <i id="ole_Lock" class="lock"></i>
+          <input id="ole" type="checkbox">启用嵌入式查杀
+        </label>
+      </dt>
+      <dt>
+        普通扫描引擎
+      </dt>
+      <dd>
+        <label class="checkbox">
+          <i id="file_lockHeuristic2" class="lock"></i>
+          <input id="file_chkHeuristic2" type="checkbox">启发式扫描
+        </label>
+      </dd>
+      <dd>
+        <label class="checkbox">
+          <i id="file_lockPopvirus2" class="lock"></i>
+          <input id="file_chkPopvirus2" type="checkbox" checked>仅扫描流行病毒
+        </label>
+      </dd>
+      <dd>
+        <label class="checkbox">
+          <i id="file_lockScanzip2" class="lock"></i>
+          <input id="file_chkScanzip2" type="checkbox">启用压缩包扫描
+        </label>
+        <label>
+          <i id="file_lockFilesize2" class="lock"></i>查杀不大于
+          <input type="text" id="file_txtFilesize2" value="20"  validation="intNum">M的压缩包
+        </label>
+      </dd>
+      <dt>
+        <label class="checkbox">
+          <i id="file_lockCloudScan2" class="lock"></i>
+          <input id="file_chkCloudScan2" type="checkbox" checked>启用云扫描引擎
+        </label>
+      </dt>
+      <dt>
+        <label class="checkbox">
+          <i id="file_lockFindvirus2" class="lock"></i>发现病毒处理方式：
+        </label>
+      </dt>
+      <dd>
+        <label class="radio">
+          <input name="file_radFindvirus2" type="radio" value="0" checked>自动处理
+        </label>
+      </dd>
+      <dd>
+        <label class="radio">
+          <input name="file_radFindvirus2" type="radio" value="1">询问用户
+        </label>
+      </dd>
+    </dl>
+  </div>
+  <div class="tab-pane" id="tab-mail">
+    <dl>
+      <dt>
+        <label class="checkbox">
+          <input type="checkbox" id="mail_chkRundisable2">开机是否默认不开启
+        </label>
+      </dt>
+      <dt>
+        <label class="checkbox">
+          <input type="checkbox" id="mail_chkLockclose2">锁定不允许客户端关闭监控
+        </label>
+      </dt>
+      <dt>
+          <i id="mail_lockReportresult2" class="lock"></i>通知处理结果：
+      </dt>
+      <dd>
+        <label class="radio">
+          <input name="mail_radReportresult2" type="radio" value="0">不提示
+        </label>
+      </dd>
+      <dd>
+        <label class="radio">
+          <input name="mail_radReportresult2" type="radio" value="1" checked>仅有病毒时提示
+        </label>
+      </dd>
+      <dd>
+        <label class="radio">
+          <input name="mail_radReportresult2" type="radio" value="2">有病毒、无病毒都提示
+        </label>
+      </dd>
+      <dt>
+          <i id="mail_lockFiletype3" class="lock"></i>扫描文件类型：
+      </dt>
+      <dd>
+        <label class="radio">
+          <input name="mail_radFiletype3" type="radio" value="0" checked>所有
+        </label>
+      </dd>
+      <dd>
+        <label class="radio">
+          <input name="mail_radFiletype3" type="radio" value="3">程序及文档
+        </label>
+      </dd>
+      <dt>普通扫描引擎</dt>
+      <dd>
+        <label class="checkbox">
+          <i id="mail_lockHeuristic3" class="lock"></i>
+          <input id="mail_chkHeuristic3" type="checkbox" checked>启发式扫描
+        </label>
+      </dd>
+      <dd>
+        <label class="checkbox">
+          <i id="mail_lockPopvirus3Lock" class="lock"></i>
+          <input id="mail_chkPopvirus3" type="checkbox">仅扫描流行病毒
+        </label>
+      </dd>
+      <dd>
+        <label class="checkbox">
+          <i id="mail_lockScanzip3" class="lock"></i>
+          <input id="mail_chkScanzip3" type="checkbox" checked>启用压缩包扫描
+        </label>
+      </dd>
+      <dd>
+        <lable>
+          <i id="mail_lockFilesize3" class="lock"></i>
+          <input type="text" id="mail_txtFilesize3" value="20" validation="intNum">M的压缩包
+        </lable>
+      </dd>
+      <dt>
+        <label class="checkbox">
+          <i id="mail_lockCloudScan3" class="lock"></i>
+          <input id="mail_chkCloudScan3" type="checkbox" checked>启用云扫描引擎
+        </label>
+      </dt>
+      <dt>
+        <i id="mail_lockFindvirus3" class="lock"></i>发现病毒处理方式
+      </dt>
+      <dd>
+        <label class="radio">
+          <input name="mail_radFindvirus3" type="radio" value="0" checked>自动处理
+        </label>
+      </dd>
+      <dd>
+        <label class="radio">
+          <input name="mail_radFindvirus3" type="radio" value="1">不处理
+        </label>
+      </dd>
+      <dt>
+        <i id="mail_lockPolicyWrap" class="lock"></i>邮件端口策略：
+      </dt>
+      <dd>
+        <dl class="mailPortPanel">
+          <dt>
+            <a href="#" class="mail_btnRemovePort">删除</a>
+            <a href="#" class="mail_btnAddPort">增加</a>
+            <label><i name="mail_lockMailPortBox" class="lock"></i></label>
+          </dt>
+          <dd>
+            端口号：
+            <input type="text" name="mail_txtMailPort" value="25" validation="intNum">
+            端口协议：
+            <label class="radio inline">
+              <input name="mail_radMailPort0" type="radio" value="0" checked>SMTP
+            </label>
+            <label class="radio inline">
+              <input name="mail_radMailPort0" type="radio" value="1">POP3
+            </label>
+          </dd>
+        </dl>
+        <dl class="mailPortPanel">
+          <dt>
+            <a href="#" class="mail_btnRemovePort">删除</a>
+            <a href="#" class="mail_btnAddPort">增加</a>
+            <label><i name="mail_lockMailPortBox" class="lock"></i></label>
+          </dt>
+          <dd>
+            端口号：
+            <input type="text" name="mail_txtMailPort" value="110" validation="intNum">
+            端口协议：
+            <label class="radio inline">
+              <input name="mail_radMailPort1" type="radio" value="0">SMTP
+            </label>
+            <label class="radio inline">
+              <input name="mail_radMailPort1" type="radio" value="1" checked>POP3
+            </label>
+          </dd>
+        </dl>
+      </dd>
+    </dl>
+  </div>
+  <div class="tab-pane" id="tab-app">
+    <dl>
+      <dt>
+        <label class="checkbox">
+          <input type="checkbox" id="app_chkAllaptEnable">是否启用应用加固设置
+        </label>
+      </dt>
+      <dd>
+        <dl>
+          <dt>
+            <i id="app_lockAptdeal" class="lock"></i>
+            拦截到威胁时
+          </dt>
+          <dd>
+            <label class="radio">
+              <input name="app_radAptdeal" type="radio" value="0" checked disabled>允许运行
+            </label>
+          </dd>
+          <dd>
+            <label class="radio">
+              <input name="app_radAptdeal" type="radio" value="1" disabled>拒绝运行
+            </label>
+          </dd>
+        </dl>
+      </dd>
+      <dd>
+        <dl>
+          <dt>
+            <i id="app_lockAptnotify" class="lock"></i>
+            拦截到威胁时
+          </dt>
+          <dd>
+            <label class="radio">
+              <input name="app_radAptnotify" type="radio" value="1" checked disabled>提示我
+            </label>
+          </dd>
+          <dd>
+            <label class="radio">
+              <input name="app_radAptnotify" type="radio" value="0" disabled>自动处理
+            </label>
+          </dd>
+        </dl>
+      </dd>
+      <dd>
+        <dl>
+          <dt>
+            <i id="app_lockAptlog" class="lock"></i>
+            拦截日志
+          </dt>
+          <dd>
+            <label class="radio">
+              <input name="app_radAptlog" type="radio" value="1" checked disabled>记录
+            </label>
+          </dd>
+          <dd>
+            <label class="radio">
+              <input name="app_radAptlog" type="radio" value="0" disabled>不记录
+            </label>
+          </dd>
+        </dl>
+      </dd>
+      <dd>
+        <dl>
+          <dt>
+            <i id="app_lockAptstarttip" class="lock"></i>
+            被保护的软件启动时
+          </dt>
+          <dd>
+            <label class="radio">
+              <input name="app_radAptstarttip" type="radio" value="1" checked disabled>弹出保护框
+            </label>
+          </dd>
+          <dd>
+            <label class="radio">
+              <input name="app_radAptstarttip" type="radio" value="0" disabled>不弹出保护框
+            </label>
+          </dd>
+        </dl>
+      </dd>
+    </dl>
+  </div>
+  <div class="tab-pane" id="tab-sys">
+    <dl>
+      <dt>
+        <label class="checkbox">
+          <input type="checkbox" id="sys_chkAllsysdefEnable">是否启用系统加固设置
+        </label>
+      </dt>
+      <dd>
+        <dl>
+          <dt>
+            <i id="sys_lockSysdefnotify" class="lock"></i>
+            拦截到威胁时
+          </dt>
+          <dd>
+            <label class="radio">
+              <input name="sys_radSysdefnotify" type="radio" value="1" checked disabled>提示我
+            </label>
+          </dd>
+          <dd>
+            <label class="radio">
+              <input name="sys_radSysdefnotify" type="radio" value="0" disabled>自动处理
+            </label>
+          </dd>
+        </dl>
+      </dd>
+      <dd>
+        <dl>
+          <dt>
+            <i id="sys_lockSysdefneedlog" class="lock"></i>
+            拦截日志
+          </dt>
+          <dd>
+            <label class="radio">
+              <input name="sys_radSysdefneedlog" type="radio" value="1" checked disabled>记录
+            </label>
+          </dd>
+          <dd>
+            <label class="radio">
+              <input name="sys_radSysdefneedlog" type="radio" value="0" disabled>不记录
+            </label>
+          </dd>
+        </dl>
+      </dd>
+      <dd>
+        <dl>
+          <dt>
+            <i id="sys_lockSysdeflevel" class="lock"></i>
+            监控灵敏度
+          </dt>
+          <dd>
+            <label class="radio">
+              <input name="sys_radSysdeflevel" type="radio" value="1" checked disabled>低
+            </label>
+          </dd>
+          <dd>
+            <label class="radio">
+              <input name="sys_radSysdeflevel" type="radio" value="2" disabled>中
+            </label>
+          </dd>
+          <dd>
+            <label class="radio">
+              <input name="sys_radSysdeflevel" type="radio" value="3" disabled>高
+            </label>
+          </dd>
+        </dl>
+      </dd>
+      <dd>
+        <dl>
+          <dt>
+            <i id="sys_lockSysdefauditmode" class="lock"></i>审计模式
+          </dt>
+          <dd>
+            <label class="checkbox">
+              <input type="checkbox" id="app_chkSysdefauditmode" disabled>开启
+            </label>
+          </dd>
+        </dl>
+      </dd>
+      <dd>
+        <dl>
+          <dt>
+            <i id="sys_lockSysdefdigitalsignature" class="lock"></i>
+            放过含有数字签名的程序
+          </dt>
+          <dd>
+            <label class="radio">
+              <input name="sys_radSysdefdigitalsignature" type="radio" value="1" checked disabled>是
+            </label>
+          </dd>
+          <dd>
+            <label class="radio">
+              <input name="sys_radSysdefdigitalsignature" type="radio" value="0" disabled>否
+            </label>
+          </dd>
+        </dl>
+      </dd>
+    </dl>
+  </div>
+</div>

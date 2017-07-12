@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/_files/xsl
+END
+remove_tables_by_needle.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/_files/xsl/remove_tables_by_needle.xsl
+END
+passthrough.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/_files/xsl/passthrough.xsl
+END

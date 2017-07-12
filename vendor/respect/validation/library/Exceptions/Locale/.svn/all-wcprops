@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/esm/!svn/ver/24334/soho/code/web/vendor/respect/validation/library/Exceptions/Locale
+END
+GermanBankAccountException.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/esm/!svn/ver/24334/soho/code/web/vendor/respect/validation/library/Exceptions/Locale/GermanBankAccountException.php
+END
+GermanBankException.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/esm/!svn/ver/24334/soho/code/web/vendor/respect/validation/library/Exceptions/Locale/GermanBankException.php
+END
+GermanBicException.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/esm/!svn/ver/24334/soho/code/web/vendor/respect/validation/library/Exceptions/Locale/GermanBicException.php
+END

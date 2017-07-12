@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/OpenDocument
+END
+Mimetype.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/OpenDocument/Mimetype.php
+END
+Content.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/OpenDocument/Content.php
+END
+Settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/OpenDocument/Settings.php
+END
+MetaInf.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/OpenDocument/MetaInf.php
+END
+Styles.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/OpenDocument/Styles.php
+END
+WriterPart.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/OpenDocument/WriterPart.php
+END
+Meta.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/OpenDocument/Meta.php
+END
+Thumbnails.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpexcel/Classes/PHPExcel/Writer/OpenDocument/Thumbnails.php
+END

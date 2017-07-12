@@ -1,0 +1,45 @@
+{
+    "legend":{
+        "data":["在线(20)台","离线(14)台"],
+        "y":"bottom",
+        "formatter":"{name}"
+    },
+    "tooltip":{
+        "trigger":"item",
+        "formatter":"{a}<br/>{b}:{c}({d}%)",
+        "position":"right"
+    },
+    "series":[
+        {
+            "name":"pc",
+            "type":"pie",
+            "radius":"50%",
+            "center":["50%","50%"],
+            "xAxis":[0],
+            "yAxis":[0],
+            "label":{
+                "normal":{
+                    "show":false,
+                    "position":"center"
+                },
+                "emphasis":{
+                    "show":true,
+                    "textStyle":{
+                        "fontSize":"14",
+                        "fontWeight":"bold"
+                    }
+                }                
+            },
+            "labelLine":{
+                "normal":{
+                    "show":false
+                }
+            },
+            "data":[
+                {"value":20,"name":"在线(20)台","itemStyle":{"normal":{"color":"#2f4554"}}},
+                {"value":14,"name":"离线(14)台","itemStyle":{"normal":{"color":"#c4ccd3"}}}
+            ]
+
+        }
+    ]
+}

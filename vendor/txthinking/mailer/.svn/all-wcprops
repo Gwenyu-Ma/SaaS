@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/esm/!svn/ver/26009/soho/code/web/vendor/txthinking/mailer
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/esm/!svn/ver/23943/soho/code/web/vendor/txthinking/mailer/composer.json
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/esm/!svn/ver/23943/soho/code/web/vendor/txthinking/mailer/LICENSE
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/esm/!svn/ver/23943/soho/code/web/vendor/txthinking/mailer/.gitignore
+END
+.travis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/esm/!svn/ver/24075/soho/code/web/vendor/txthinking/mailer/.travis.yml
+END
+phpunit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/esm/!svn/ver/23943/soho/code/web/vendor/txthinking/mailer/phpunit.xml
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/esm/!svn/ver/24075/soho/code/web/vendor/txthinking/mailer/README.md
+END
+composer.lock
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/esm/!svn/ver/24075/soho/code/web/vendor/txthinking/mailer/composer.lock
+END

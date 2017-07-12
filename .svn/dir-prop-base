@@ -1,0 +1,19 @@
+K 18
+svn:global-ignores
+V 6
+.idea
+
+K 10
+svn:ignore
+V 105
+*.idea
+.idea
+.project
+design
+sftp-config.json
+soho.sublime-project
+soho.sublime-workspace
+.idea
+test.php
+
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/common/tests/Common/Tests
+END
+DrawingTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/common/tests/Common/Tests/DrawingTest.php
+END
+XMLWriterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/common/tests/Common/Tests/XMLWriterTest.php
+END
+AutoloaderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/common/tests/Common/Tests/AutoloaderTest.php
+END
+FileTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/common/tests/Common/Tests/FileTest.php
+END
+TextTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/common/tests/Common/Tests/TextTest.php
+END
+FontTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/common/tests/Common/Tests/FontTest.php
+END

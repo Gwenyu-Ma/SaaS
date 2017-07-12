@@ -1,0 +1,47 @@
+<div class="rs-page-sidebar">
+  <div class="side-menu-scroll">
+    <ul class="side-menu">
+      <li><a href="#"><i class="fa fa-chevron-down pull-right"></i><i class="fa fa-tags"></i> 平台</a>
+        <ul>
+          <li><a href="#">客户端子产品统计</a></li>
+        </ul>
+      </li>
+      <li><a href="#"><i class="fa fa-chevron-down pull-right"></i><i class="fa fa-tags"></i> 防病毒(XAV)</a>
+        <ul>
+          <li><a href="#report/XAV_VirusStatistics">病毒趋势统计</a></li>
+        </ul>
+      </li>
+      <li><a href="#"><i class="fa fa-chevron-down pull-right"></i><i class="fa fa-tags"></i> IT资产管理(RAM)</a>
+        <ul>
+          <li><a href="#">设备异动趋势统计</a></li>
+          <li><a href="#">设备类型统计</a></li>
+          <li><a href="#">装机软件统计</a></li>
+        </ul>
+      </li>
+      <li><a href="#"><i class="fa fa-chevron-down pull-right"></i><i class="fa fa-tags"></i> 行为审计(RBA)</a>
+        <ul>
+          <li><a href="#">文档审计统计</a></li>
+          <li><a href="#">文档审计结果统计</a></li>
+          <li><a href="#">客户端文件访问趋势统计</a></li>
+          <li><a href="#">客户端文件打印趋势统计</a></li>
+          <li><a href="#">存储设备审计统计</a></li>
+          <li><a href="#">网址访问次数统计</a></li>
+          <li><a href="#">网址审计结果统计</a></li>
+          <li><a href="#">客户端网址访问趋势统计</a></li>
+        </ul>
+      </li>
+      <li><a href="#"><i class="fa fa-chevron-down pull-right"></i><i class="fa fa-tags"></i> 网络安全管理(RSM)</a>
+        <ul>
+          <li><a href="#">安全软件统计</a></li>
+          <li><a href="#">客户端操作系统统计</a></li>
+        </ul>
+      </li>
+      <li><a href="#"><i class="fa fa-chevron-down pull-right"></i><i class="fa fa-tags"></i> XP盾(RXP)</a>
+        <ul>
+          <li><a href="#">漏洞攻击统计</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
+<div id="c-report" class="rs-page-content"></div>

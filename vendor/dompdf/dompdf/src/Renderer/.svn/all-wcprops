@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/dompdf/dompdf/src/Renderer
+END
+AbstractRenderer.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/dompdf/dompdf/src/Renderer/AbstractRenderer.php
+END
+Block.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/dompdf/dompdf/src/Renderer/Block.php
+END
+TableRowGroup.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/dompdf/dompdf/src/Renderer/TableRowGroup.php
+END
+Inline.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/dompdf/dompdf/src/Renderer/Inline.php
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/dompdf/dompdf/src/Renderer/Image.php
+END
+ListBullet.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/dompdf/dompdf/src/Renderer/ListBullet.php
+END
+Text.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/dompdf/dompdf/src/Renderer/Text.php
+END
+TableCell.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/dompdf/dompdf/src/Renderer/TableCell.php
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/LICENSE
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/VERSION
+END
+.travis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/.travis.yml
+END
+CHANGELOG.md
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/CHANGELOG.md
+END
+phpunit.xml.dist
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/phpunit.xml.dist
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/README.md
+END
+.scrutinizer.yml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/.scrutinizer.yml
+END
+.travis_shell_after_success.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/.travis_shell_after_success.sh
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/composer.json
+END
+phpword.ini.dist
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/phpword.ini.dist
+END
+bootstrap.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/bootstrap.php
+END
+COPYING.LESSER
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/COPYING.LESSER
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/.gitignore
+END
+CONTRIBUTING.md
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/CONTRIBUTING.md
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/COPYING
+END
+phpmd.xml.dist
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/phpmd.xml.dist
+END

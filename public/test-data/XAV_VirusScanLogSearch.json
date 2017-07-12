@@ -1,0 +1,54 @@
+{
+  "total": 792,
+  "rows": [{
+    "time": "2015/5/28 12:00:03",
+    "pcName": "Z-PC",
+    "ip": "192.168.70.42",
+    "scanType": "快速查杀",
+    "scanCount": "18311",
+    "scanTime": "00:01:32",
+    "dangerCount": "0",
+    "procCount": "0",
+    "scanStatus": "扫描完成"
+  }, {
+    "time": "2015/5/28 12:00:03",
+    "pcName": "Z-PC",
+    "ip": "192.168.70.42",
+    "scanType": "快速查杀",
+    "scanCount": "18311",
+    "scanTime": "00:01:32",
+    "dangerCount": "0",
+    "procCount": "0",
+    "scanStatus": "扫描完成"
+  }, {
+    "time": "2015/5/28 12:00:03",
+    "pcName": "Z-PC",
+    "ip": "192.168.70.42",
+    "scanType": "快速查杀",
+    "scanCount": "18311",
+    "scanTime": "00:01:32",
+    "dangerCount": "0",
+    "procCount": "0",
+    "scanStatus": "扫描完成"
+  }, {
+    "time": "2015/5/28 12:00:03",
+    "pcName": "Z-PC",
+    "ip": "192.168.70.42",
+    "scanType": "快速查杀",
+    "scanCount": "18311",
+    "scanTime": "00:01:32",
+    "dangerCount": "0",
+    "procCount": "0",
+    "scanStatus": "扫描完成"
+  }, {
+    "time": "2015/5/28 12:00:03",
+    "pcName": "Z-PC",
+    "ip": "192.168.70.42",
+    "scanType": "快速查杀",
+    "scanCount": "18311",
+    "scanTime": "00:01:32",
+    "dangerCount": "0",
+    "procCount": "0",
+    "scanStatus": "扫描完成"
+  }]
+}

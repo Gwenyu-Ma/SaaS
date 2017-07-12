@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/common/tests/Common/Tests/Adapter/Zip
+END
+PclZipAdapterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/common/tests/Common/Tests/Adapter/Zip/PclZipAdapterTest.php
+END
+ZipArchiveAdapterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/common/tests/Common/Tests/Adapter/Zip/ZipArchiveAdapterTest.php
+END

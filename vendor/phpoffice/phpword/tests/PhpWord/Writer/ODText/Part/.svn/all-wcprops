@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Writer/ODText/Part
+END
+AbstractPartTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Writer/ODText/Part/AbstractPartTest.php
+END
+ContentTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/esm/!svn/ver/27122/soho/code/web/vendor/phpoffice/phpword/tests/PhpWord/Writer/ODText/Part/ContentTest.php
+END

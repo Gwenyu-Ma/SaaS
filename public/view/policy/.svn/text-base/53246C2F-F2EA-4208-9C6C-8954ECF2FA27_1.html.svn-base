@@ -1,0 +1,156 @@
+<ul class="nav nav-tabs" id="policyTab">
+  <li class="active"><a href="#tab-pub" data-toggle="tab">公共设置</a></li>
+  <li><a href="#tab-whiteList" data-toggle="tab">白名单</a></li>
+  <li><a href="#tab-rsIpList" data-toggle="tab">防黑客攻击</a></li>
+</ul>
+ 
+<div class="tab-content">
+  <div class="tab-pane in active" id="tab-pub">
+    <dl>
+      <dt>
+        <label class="checkbox">
+          <i id="FwStatus_lock" class="lock"></i>
+          <input type="checkbox" id="pub_FwStatus">网络防护
+        </label>
+      </dt>
+      <dd>
+        <dl>
+          <dt><i id="AntiEvilUrl_lock" class="lock"></i>木马网址</dt>
+          <dd>
+            <label class="checkbox">
+              <i id="AntiEvilUrl_lock_MonStatus" class="lock"></i>
+              <input type="checkbox" id="AntiEvilUrl_MonStatus">拦截恶意木马网址
+            </label>
+            <label class="checkbox">
+              <i id="AntiEvilUrl_lock_LogStatus" class="lock"></i>
+              <input type="checkbox" id="AntiEvilUrl_LogStatus">记录日志
+            </label>
+          </dd>
+          <dt><i id="AntiFishUrl_lock" class="lock"></i>钓鱼网址</dt>
+          <dd>
+            <label class="checkbox">
+              <i id="AntiFishUrl_lock_MonStatus" class="lock"></i>
+              <input type="checkbox" id="AntiFishUrl_MonStatus">拦截钓鱼网址
+            </label>
+            <label class="checkbox">
+              <i id="AntiFishUrl_lock_LogStatus" class="lock"></i>
+              <input type="checkbox" id="AntiFishUrl_LogStatus">记录日志
+            </label>
+          </dd>
+          <dt><i id="AntiEvilDown_lock" class="lock"></i>恶意下载</dt>
+          <dd>
+            <label class="checkbox">
+              <i id="AntiEvilDown_lock_MonStatus" class="lock"></i>
+              <input type="checkbox" id="AntiEvilDown_MonStatus">拦截恶意下载
+            </label>
+            <label class="checkbox">
+              <i id="AntiEvilDown_lock_LogStatus" class="lock"></i>
+              <input type="checkbox" id="AntiEvilDown_LogStatus">记录日志
+            </label>
+          </dd>
+          <dt><i id="AntiXss_lock" class="lock"></i>脚本攻击</dt>
+          <dd>
+            <label class="checkbox">
+              <i id="AntiXss_lock_MonStatus" class="lock"></i>
+              <input type="checkbox" id="AntiXss_MonStatus">拦截跨站脚本攻击
+            </label>
+            <label class="checkbox">
+              <i id="AntiXss_lock_LogStatus" class="lock"></i>
+              <input type="checkbox" id="AntiXss_LogStatus">记录日志
+            </label>
+          </dd>
+          <dt><i id="SearchUrlProtect_lock" class="lock"></i>索引结果</dt>
+          <dd>
+            <label class="checkbox">
+              <i id="SearchUrlProtect_lock_MonStatus" class="lock"></i>
+              <input type="checkbox" id="SearchUrlProtect_MonStatus">搜索引擎结果检查
+            </label>
+            <label class="checkbox">
+              <i id="SearchUrlProtect_lock_LogStatus" class="lock"></i>
+              <input type="checkbox" id="SearchUrlProtect_LogStatus">记录日志
+            </label>
+          </dd>
+          <dt><i id="AdFilter_lock" class="lock"></i>广告过滤</dt>
+          <dd>
+            <label class="checkbox">
+              <i id="AdFilter_lock_MonStatus" class="lock"></i>
+              <input type="checkbox" id="AdFilter_MonStatus">广告过滤
+            </label>
+          </dd>
+          <dd>
+            <div class="mb5">
+              <input type="text" value="" id="adUrlList_txt">
+              <button  class="btn btn-success btn-small" id="adUrlList_add">添加</button>
+            </div>
+            <div class="whiteListBox">
+              <table id="adUrlList" class="whiteList"></table>
+            </div>
+          </dd>
+          <dd>
+            <label class="checkbox">
+              <i id="AdFilter_lock_logStatus" class="lock"></i>
+              <input type="checkbox" id="AdFilter_LogStatus">记录日志
+            </label>
+          </dd>
+        </dl>
+      </dd>   
+    </dl>
+  </div>
+  <div class="tab-pane" id="tab-whiteList">
+    <dl>
+      <dt>
+        <label class="checkbox">
+          <i id="whiteList_lock" class="lock"></i>
+          <input type="checkbox" id="whiteList_WhiteUrlStatus">白名单
+        </label>
+      </dt>
+      <dd>
+        <div class="mb5">
+          <input type="text" value="" id="whiteList_txt" disabled>
+          <button  class="btn btn-success btn-small" id="whiteList_add" disabled>添加</button>
+        </div>
+        <div class="whiteListBox">
+          <table id="WhiteUrlList" class="whiteList"></table>
+        </div>
+      </dd>
+    </dl>
+  </div>
+  <div class="tab-pane" id="tab-rsIpList">
+    <dl>
+      <dt>
+        <label>
+          <i id="rsIpList_lock" class="lock"></i>防黑客攻击
+        </label>
+      </dt>
+      <dd>
+        <label class="checkbox">
+          <i id="rsIpList_lock_MonStatus" class="lock"></i>
+          <input type="checkbox" id="rsIpList_MonStatus">启用防黑客攻击
+        </label>
+      </dd>
+      <dd>
+        <label class="checkbox">
+          <i id="rsIpList_lock_LogStatus" class="lock"></i>
+          <input type="checkbox" id="rsIpList_LogStatus">记录日志
+        </label>
+      </dd>
+      <dd>
+        <label class="checkbox">
+          <i id="rsIpList_lock_AlertStatus" class="lock"></i>
+          <input type="checkbox" id="rsIpList_AlertStatus">发现攻击提示用户
+        </label>
+      </dd>
+      <dd>
+        <label>
+          <i id="rsIpList_lock_BreakTimes" class="lock"></i>
+          拦截后组织此IP<input type="text" id="rsIpList_BreakTimes" class="input-mini" validation="intNum">分钟
+        </label>
+      </dd>
+      <dd>
+        <div>目前已启用<span id="js_totle_RsIpRuleList" class="orange"></span>个防护规则，<span id="js_RsIpRuleList_noOpen"  class="orange"></span>个未启用</div>
+        <table id="RsIpRuleList">          
+        </table>
+      </dd>
+    </dl>
+  </div>
+</div>

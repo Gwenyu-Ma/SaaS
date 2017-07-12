@@ -1,0 +1,35 @@
+{
+	"r": {
+		"code": 0,
+		"action": 0,
+		"msg": ""
+	},
+	"data": [{
+		"_id": {
+			"$id": "56ab37827f8b9a533c00000b"
+		},
+		"eid": "BB8A7644925C2E62",
+		"id": 1454061442,
+		"groupname": "\u5168\u7f51\u8ba1\u7b97\u673a",
+		"description": "\u5168\u7f51\u8ba1\u7b97\u673a",
+		"edate": 1454061442
+	}, {
+		"_id": {
+			"$id": "56af27857f8b9a533c00000b"
+		},
+		"eid": "BB8A7644925C2E62",
+		"id": 1454319493,
+		"groupname": "aa",
+		"description": "bb",
+		"edate": 1454319493
+	}, {
+		"_id": {
+			"$id": "56b07fc27f8b9a533c00000a"
+		},
+		"eid": "BB8A7644925C2E62",
+		"id": 1454407618,
+		"groupname": "test",
+		"description": "test",
+		"edate": 1454407618
+	}]
+}

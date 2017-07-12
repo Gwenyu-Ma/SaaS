@@ -1,0 +1,33 @@
+<div class="content-header">
+  <h1>组管理</h1>
+</div>
+<div class="content-body">
+  <div class="container-fluid">
+    <div class="row-fluid">
+      <div class="span12">
+        <div id="custom-toolbar" class="form-inline">
+          <button id="btnAdd" class="btn btn-primary">添加组</button>
+        </div>
+        <table id="tbGroup" data-toolbar-align="left" data-toolbar="#custom-toolbar"></table>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal -->
+<div id="mManageGroup" class="modal hide fade" tabindex="-1" aria-hidden="true">
+  <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+    <h3 id="mManageGroupTitle">123</h3>
+  </div>
+  <div class="modal-body">
+      <label>组名称</label>
+      <input id="txtManageGroupName" type="text">    
+      <label>描述信息</label>
+      <textarea id="txtManageGroupDesp" rows="2"></textarea>
+  </div>
+  <div class="modal-footer">
+    <button class="btn" data-dismiss="modal" aria-hidden="true">关闭</button>
+    <button id="btnSaveManageGroup" class="btn btn-primary">保存</button>
+  </div>
+</div>

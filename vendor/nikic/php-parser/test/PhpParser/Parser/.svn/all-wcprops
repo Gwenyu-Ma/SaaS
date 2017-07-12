@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/nikic/php-parser/test/PhpParser/Parser
+END
+MultipleTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/nikic/php-parser/test/PhpParser/Parser/MultipleTest.php
+END
+Php5Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/nikic/php-parser/test/PhpParser/Parser/Php5Test.php
+END
+Php7Test.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/esm/!svn/ver/24862/soho/code/web/vendor/nikic/php-parser/test/PhpParser/Parser/Php7Test.php
+END

@@ -1,0 +1,63 @@
+<div class="rs-page-sidebar">
+  <div class="side-menu-scroll">
+    <ul class="side-menu">
+      <li>
+        <a href="#"><i class="fa fa-chevron-down pull-right"></i><i class="fa fa-desktop"></i> 终端管理</a>
+        <ul class="client-manage"></ul>
+      </li>
+      <li>
+        <a href="#manage/group"><i class="fa fa-database"></i> 组管理</a>
+      </li>
+      <li><a href="#"><i class="fa fa-chevron-down pull-right"></i><i class="fa fa-tags"></i> 策略设置</a>
+        <ul>          
+          <li><a href="#"><i class="arrow"></i>病毒防御</a>
+            <ul>
+              <li><a href="#manage/policy?&D49170C0-B076-4795-B079-0F97560485AF_1">Windows防病毒</a></li>              
+            </ul>
+          </li>
+          <li><a href="#"><i class="arrow"></i>Linux防病毒</a>
+            <ul>
+              <li><a href="#manage/policy?&A40D11F7-63D2-469d-BC9C-E10EB5EF32DB_1">Linux防病毒</a></li>            
+            </ul>
+          </li>
+          <li><a href="#"><i class="arrow"></i>Windows上网防护</a>
+            <ul>
+              <li><a href="#manage/policy?&53246C2F-F2EA-4208-9C6C-8954ECF2FA27_1">IP管理</a></li>
+              <li><a href="#manage/policy?&53246C2F-F2EA-4208-9C6C-8954ECF2FA27_2">审计管理</a></li>
+            </ul>
+          </li>        
+          <li><a href="#"><i class="arrow"></i>安卓管理</a>
+            <ul>
+              <li><a href="#manage/policy?&74F2C5FD-2F95-46be-B67C-FFA200D69012_1">安卓管理</a></li>
+            </ul>
+          </li>
+          <li><a href="#"><i class="arrow"></i>系统平台</a>
+            <ul>
+              <li><a href="#manage/policy?&EB8AFFA5-0710-47e6-8F53-55CAE55E1915_1">自动入组</a></li>
+              <li><a href="#manage/policy?&50BAC747-7D02-4969-AF79-45EE47365C81_1">终端升级</a></li>
+            </ul>
+          </li>          
+        </ul>
+      </li>
+      <!--<li><a href="#manage/policyTest"><i class="fa fa-tags"></i> 策略设置test</a></li>-->
+    </ul>
+  </div>
+</div>
+<div id="c-manage" class="rs-page-content"></div>
+<!-- Modal -->
+<div id="mGroup" class="modal hide fade" tabindex="-1" aria-hidden="true">
+  <div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+    <h3 id="mGroupTitle"></h3>
+  </div>
+  <div class="modal-body">
+      <label>组名称</label>
+      <input id="txtGroupName" type="text">    
+      <label>描述信息</label>
+      <textarea id="txtGroupDesp" rows="2"></textarea>
+  </div>
+  <div class="modal-footer">
+    <button class="btn" data-dismiss="modal" aria-hidden="true">关闭</button>
+    <button id="btnSaveGroup" class="btn btn-primary">保存</button>
+  </div>
+</div>

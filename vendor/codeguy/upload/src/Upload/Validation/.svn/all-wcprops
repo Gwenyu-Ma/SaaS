@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/esm/!svn/ver/25128/soho/code/web/vendor/codeguy/upload/src/Upload/Validation
+END
+Mimetype.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/esm/!svn/ver/25128/soho/code/web/vendor/codeguy/upload/src/Upload/Validation/Mimetype.php
+END
+Base.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/esm/!svn/ver/25128/soho/code/web/vendor/codeguy/upload/src/Upload/Validation/Base.php
+END
+Size.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/esm/!svn/ver/25128/soho/code/web/vendor/codeguy/upload/src/Upload/Validation/Size.php
+END
+Extension.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/esm/!svn/ver/25128/soho/code/web/vendor/codeguy/upload/src/Upload/Validation/Extension.php
+END
